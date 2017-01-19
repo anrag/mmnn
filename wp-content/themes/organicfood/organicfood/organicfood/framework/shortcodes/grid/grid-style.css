@@ -1,0 +1,9 @@
+#Container .mix{
+    display: none;
+}
+#Container .mix.category-1{
+    background: #333;
+}
+#Container .mix.category-2{
+    background: #eee;
+}

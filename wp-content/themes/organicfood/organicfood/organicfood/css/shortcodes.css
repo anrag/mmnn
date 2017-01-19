@@ -1,0 +1,2159 @@
+    /*
+Theme Name: CmsSuperHero
+Theme URI: http://cmssuperheroes.com/wordpress/cshero
+Author: Cmssuperheroes Team
+Author URI: http://cmssuperheroes.com/
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Description: In 2014, Creating a magazine website with WordPress has never been easier.
+Text Domain: cshero
+*/
+
+/*
+    Main Color: #c79c60;
+*/
+
+/* ==========================================================================
+   Start Accordion
+========================================================================== */
+/*
+.wpb_accordion_section {
+    margin-bottom: 15px;
+}
+
+.wpb_accordion_section .wpb_accordion_header a {
+    background: #f2f2f2;
+    display: block;
+    letter-spacing: 0;
+    line-height: 16px;
+    padding: 10px !important;
+    text-decoration: none;
+    position: relative;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.wpb_accordion_section .wpb_accordion_header a:before {
+    content: "\f055";
+    font-family: FontAwesome;
+    font-size: 15px;
+    padding-right: 15px;
+}
+
+.wpb_accordion_section .wpb_accordion_header.ui-accordion-header-active a {
+    color: #fff !important;
+}
+
+.wpb_accordion_section .wpb_accordion_header.ui-accordion-header-active a:before {
+    color: #fff !important;
+}
+
+.wpb_accordion_section .wpb_accordion_header .ui-accordion-header-icon {
+    display: none;
+}
+
+.wpb_accordion_section .wpb_accordion_content {
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.wpb_tab.ui-tabs-panel {
+    margin-top: 0 !important;
+}
+
+/****** End Accordion ******/
+
+/* ==========================================================================
+   Start Carousel
+========================================================================== */
+/*.cs-carousel .carousel-inner img {
+    width: 100%;
+    height: auto;
+    max-height: 534px;
+}
+
+.cs-carousel .carousel-indicators {
+    display: none;
+}
+
+.cs-carousel .carousel-caption {
+    width: 100%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 15px;
+    text-align: left;
+    z-index: 100;
+}
+
+.cs-carousel .carousel-control {
+    width: 23px;
+    height: 23px;
+    top: inherit;
+    bottom: 13px;
+    z-index: 101;
+    left: inherit;
+    -webkit-text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    -moz-text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    -ms-text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    -o-text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    opacity: 1;
+}
+
+.cs-carousel .carousel-control.right {
+    right: 12px;
+}
+
+.cs-carousel .carousel-control.left {
+    right: 40px;
+}
+
+.cs-carousel .carousel-control span {
+    color: #fff;
+    font-size: 20px;
+}
+
+/* style-1-shop */
+/*.ww-carousel-style-1-shop .entry-title {
+    margin: 35px 0 20px !important;
+}
+
+.ww-carousel-style-1-shop .ww-subtitle {
+    margin-bottom: 100px !important;
+    display: block;
+}
+.ww-carousel-style-1-shop .ww-carousel-post-read-more{
+    margin-top: 25px !important;
+}
+.btn-white .btn{
+    border: 1px solid #fff !important;
+    color: #fff !important;
+}
+/* style-2-shop */
+/*.ww-carousel-style-2-shop .entry-title {
+    margin: 35px 0 20px !important;
+}
+
+.ww-carousel-style-2-shop .ww-subtitle {
+    margin-bottom: 100px !important;
+    display: block;
+}
+.ww-carousel-style-2-shop .ww-carousel-post-read-more{
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: none;
+    transition: all 2s linear 0s;
+}
+.ww-carousel-style-2-shop .ww-carousel-post-read-more .read-more-inner{
+    padding: 25px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.ww-carousel-style-2-shop .ww-carousel-post-read-more .read-more-inner-2{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #fff;
+}
+.ww-carousel-style-2-shop .ww-carousel-post-read-more .read-more-inner-3{
+    position: absolute;
+    top: 50%;
+    margin-top: -15px;
+    width: 100%;
+}
+.ww-carousel-style-2-shop .ww-carousel-post-read-more a{}
+.ww-carousel-style-2-shop .ww-carousel-header{
+    position: relative;
+}
+.ww-carousel-style-2-shop .ww-carousel-container:hover .ww-carousel-post-read-more{
+    display: block;
+}
+/****** End Carousel ******/
+/* ==========================================================================
+   shop Carousel
+   ========================================================================== */
+/*.ww-shopcarousel-style-1-shop .ww-title{
+    margin-bottom: 39px!important;
+}
+.ww-shopcarousel-style-1-shop .star-rating{
+    display: none!important;
+}
+.ww-shopcarousel-style-1-shop .ww-carouselt-item{
+    position: relative;
+    padding: 10px;
+    border: 1px solid #efefef;
+}
+.ww-shopcarousel-style-1-shop .woo-view-detail{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
+.ww-shopcarousel-style-1-shop .ww-carouselt-item:hover .woo-view-detail{
+    display: block;
+}
+.ww-shopcarousel-style-1-shop .fa.fa-plus{
+    background: #efefef;
+    padding: 15px 16px;
+    color: #2d2c2c;
+}
+.ww-shopcarousel-style-1-shop .woo-info{
+    margin-top: 10px;
+}
+.ww-shopcarousel-style-1-shop .woo-info .price{
+    color: #2d2c2c;
+}
+/****** End Carousel ******/
+
+/* ==========================================================================
+   Start Tabs Style
+   ========================================================================== */
+.wpb_tabs .ui-tabs-panel {
+    padding: 20px 0;
+    padding: 20px 0 !important;
+    background: #fff !important
+}
+
+.wpb_tabs a.ui-tabs-anchor {
+    background: #fff;
+    border-bottom: 1px solid #fff !important;
+}
+
+.wpb_tabs.style1 li:hover {
+    background: none !important;
+}
+
+.wpb_tabs li.ui-tabs-active a.ui-tabs-anchor {
+    border-bottom: 1px solid #fff !important;
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    -ms-border-radius: 4px 4px 0 0;
+    -o-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+    color: #555 !important;
+}
+
+.wpb_tabs ul.wpb_tabs_nav {
+    margin-bottom: -1px;
+}
+
+.wpb_tabs ul.wpb_tabs_nav li,
+.wpb_tabs ul.wpb_tabs_nav li a {
+    background: transparent;
+}
+
+.wpb_tabs ul.wpb_tabs_nav li.ui-tabs-active {
+    background: #fff;
+}
+
+.wpb_tabs.style2 .wpb_tabs_nav li + li {
+    margin-left: 10px;
+}
+
+.wpb_tabs.style2 .ui-tabs-panel,
+.wpb_tabs.style3 .ui-tabs-panel {
+    background: transparent !important;
+    border: none;
+}
+
+.wpb_tabs.style2 ul.wpb_tabs_nav li a,
+.wpb_tabs.style3 ul.wpb_tabs_nav li a {
+    border: none !important;
+    padding: 5px 23px;
+}
+
+.wpb_tabs.style2 ul li,
+.wpb_tabs.style3 ul li {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.wpb_tabs.style2 li.ui-tabs-active a.ui-tabs-anchor,
+.wpb_tabs.style3 li.ui-tabs-active a.ui-tabs-anchor,
+.wpb_tabs.style2 li:hover a.ui-tabs-anchor,
+.wpb_tabs.style3 li:hover a.ui-tabs-anchor {
+    color: #fff !important;
+}
+
+.wpb_tabs.style3 ul.wpb_tabs_nav li {
+    float: none;
+}
+
+.wpb_tabs.style3 ul.wpb_tabs_nav {
+    float: left;
+    padding: 0 0 30px !important;
+    min-width: 130px;
+    margin-right: 30px;
+}
+
+.wpb_tabs.style3 .ui-tabs-panel {
+    padding: 0 0 0 160px !important;
+}
+
+.rtl .wpb_tabs.style3 .ui-tabs-panel {
+    padding: 0 160px 0 0 !important;
+}
+
+.wpb_tabs.style3 ul li {
+    -webkit-border-radius: 4px 0 0 4px;
+    -moz-border-radius: 4px 0 0 4px;
+    -ms-border-radius: 4px 0 0 4px;
+    -o-border-radius: 4px 0 0 4px;
+    border-radius: 4px 0 0 4px;
+    margin: 0 0 6px;
+
+}
+
+/****** End Tabs ******/
+/* ==========================================================================
+   Start Shortcode Icons
+========================================================================== */
+.icon-list {
+    padding: 0;
+    margin: 0 0 40px;
+}
+
+.icon-list li {
+    display: inline-block;
+    width: 8%;
+    text-align: center;
+    font-size: 0;
+    margin: 0 0 50px;
+    line-height: 1;
+}
+
+.icon-list li:before {
+    font-size: 28px;
+}
+
+/*** End Shortcode Icons ***/
+
+/*** Start Shortcode Gallery ***/
+.gallery-filters a {
+    list-style: none outside none;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    background: #f5f5f5;
+    border-color: #ececec;
+    border-image: none;
+    border-radius: 4px;
+    border-right: 1px solid #ececec;
+    border-style: none solid solid none;
+    border-width: 0 1px 1px 0;
+    color: #888888 !important;
+    display: inline-block;
+    letter-spacing: 0.05em;
+    line-height: 25px;
+    padding: 0 10px;
+    text-decoration: none;
+    outline: none;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.gallery-filters a:hover, .gallery-filters a.active {
+    color: #fff !important;
+}
+
+ul.gallery {
+    padding: 0 !important;
+}
+
+ul.gallery li a {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    display: block;
+    padding: 4px;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+ul.gallery li a img {
+    cursor: pointer;
+}
+
+.modal-dialog {
+    margin: 100px auto
+}
+
+.modal-header {
+    padding: 0;
+    height: 42px;
+}
+
+.modal-header .close span, .modal-header .close span:hover {
+    background: none repeat scroll 0 0 #000;
+    border-radius: 100%;
+    color: #fff;
+    height: 24px;
+    line-height: 24px;
+    margin: 10px 10px 0 0;
+    right: 8px;
+    top: 8px;
+    width: 24px;
+    display: block;
+}
+
+.modal-header .close:hover {
+    background: none !important;
+    border: none !important;
+}
+
+/* ==========================================================================
+   Start Fancy Box Style
+   ========================================================================== */
+.ww-fancy-box .ww-fancy-box-title h3,
+.ww-fancy-box .ww-fancy-box-title h4,
+.ww-fancy-box .ww-fancy-box-icon h3,
+.ww-fancy-box .ww-fancy-box-icon h4 {
+    line-height: 22px;
+    margin: 0 0 10px;
+    text-shadow: none;
+}
+.ww-fancy-box.title-upper .ww-title-main {
+    text-transform: uppercase;
+}
+.ww-fancy-box .ww-fancy-box-title i,
+.ww-fancy-box .ww-fancy-box-icon i {
+    font-size: 22px;
+    text-shadow: none;
+}
+
+.ww-fancy-box .ww-read-more a.read-more-link {
+    padding: 0;
+    margin-top: 5px;
+}
+
+.ww-fancy-box .ww-read-more a.read-more-link.btn {
+    padding: 7px 25px;
+    margin-top: 10px;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-title {
+    margin: 25px 0 15px;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-title h3 {
+    font-size: 18px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-icon {
+    display: none;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-content {
+    text-align: center;
+}
+
+.ww-fancy-box .ww-read-more .read-more-link {
+    float: right;
+}
+
+.ww-fancy-box.fancy-box-style-1 .ww-read-more,
+.ww-fancy-box.fancy-box-style-10 .ww-read-more {
+    overflow: hidden;
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-1 .ww-read-more a.read-more-link,
+.ww-fancy-box.fancy-box-style-10 .ww-read-more a.read-more-link {
+    float: none;
+}
+
+.ww-fancy-box.fancy-box-style-2 .ww-read-more .read-more-link {
+    float: none;
+    line-height: 20px;
+}
+
+.ww-fancy-box.fancy-box-style-2 .ww-fancy-box-title i {
+    margin-right: 28px;
+}
+
+.rtl .ww-fancy-box.fancy-box-style-2 .ww-fancy-box-title i {
+    margin-right: 0;
+    margin-left: 28px;
+}
+
+.ww-fancy-box.fancy-box-style-2 .ww-read-more .read-more-link i {
+    margin: 0 0 0 5px;
+}
+
+.ww-fancy-box.fancy-box-style-2 .ww-fancy-box-title i {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+    border-radius: 50%;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.ww-fancy-box.fancy-box-style-2:hover .ww-fancy-box-title i {
+    color: #fff;
+}
+
+.ww-fancy-box.fancy-box-style-2 .ww-fancy-box-title .ww-title {
+    display: inline-block;
+}
+
+.ww-fancy-box.fancy-box-style-2 .ww-fancy-box-title span,
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title span {
+    display: inline-block;
+}
+
+.ww-fancy-box.fancy-box-style-3 {
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-3 .ww-fancy-box-title {
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-3 .ww-fancy-box-title i {
+    display: block;
+    border-radius: 50%;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    width: 70px;
+    color: #FFFFFF;
+    margin: 0 auto 10px;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.ww-fancy-box.fancy-box-style-3 .ww-fancy-box-title .title {
+    display: block;
+}
+
+.ww-fancy-box.fancy-box-style-3 .ww-read-more .read-more-link {
+    float: none;
+}
+
+.ww-fancy-box.fancy-box-style-2 .ww-fancy-box-title i,
+.ww-fancy-box.fancy-box-style-4 .ww-fancy-box-icon i,
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title i {
+    height: 70px;
+    width: 70px;
+    color: #fff;
+    line-height: 70px;
+    text-align: center;
+    font-size: 38px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.ww-fancy-box.fancy-box-style-4 .ww-fancy-box-content {
+    padding-left: 28px;
+}
+
+.rtl .ww-fancy-box.fancy-box-style-4 .ww-fancy-box-content {
+    padding-left: 0;
+    padding-right: 28px;
+}
+
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title i {
+    height: 52px;
+    width: 52px;
+    line-height: 52px;
+    font-size: 28px;
+    margin-right: 15px;
+    color: #fff !important;
+}
+
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title h1,
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title h2,
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title h3,
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title h4,
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title h5,
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title h6,
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title h1,
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title h2,
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title h3,
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title h4,
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title h5,
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title h6 {
+    margin: 0 !important;
+}
+
+.ww-fancy-box.fancy-box-style-5 .ww-fancy-box-content,
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-content {
+    padding-left: 72px;
+}
+
+.rtl .ww-fancy-box.fancy-box-style-5 .ww-fancy-box-title i,
+.rtl .ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title i {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.rtl .ww-fancy-box.fancy-box-style-5 .ww-fancy-box-content,
+.rtl .ww-fancy-box.fancy-box-style-11 .ww-fancy-box-content {
+    padding-left: 0;
+    padding-right: 72px;
+}
+
+.ww-fancy-box.fancy-box-style-6 {
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-6 .ww-fancy-box-title {
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-6 .ww-fancy-box-title i {
+    display: block;
+    border-radius: 5px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    width: 70px;
+    color: #fff;
+    margin: 0 auto 10px;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.ww-fancy-box.fancy-box-style-6 .ww-fancy-box-title .title {
+    display: block;
+}
+
+.ww-fancy-box.fancy-box-style-6 .ww-read-more .read-more-link {
+    float: none;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-image .ww-fancy-box-icon {
+    border-style: solid;
+    border-width: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 10;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-icon {
+    display: block;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-image .ww-fancy-box-icon i {
+    color: #FFFFFF;
+    font-size: 20px;
+    left: -30px;
+    position: absolute;
+    top: -30px;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-image img {
+    -webkit-transition: all 0.3s ease-in-out 0.2s;
+    -moz-transition: all 0.3s ease-in-out 0.2s;
+    -o-transition: all 0.3s ease-in-out 0.2s;
+    transition: all 0.3s ease-in-out 0.2s;
+    width: 100%;
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-image img:hover {
+    -webkit-transform: scale(1.25) rotate(-1.25deg);
+    -moz-transform: scale(1.25) rotate(-1.25deg);
+    -ms-transform: scale(1.25) rotate(-1.25deg);
+    -o-transform: scale(1.25) rotate(-1.25deg);
+    transform: scale(1.25) rotate(-1.25deg);
+}
+
+.ww-fancy-box.fancy-box-style-7 .ww-fancy-box-title {
+    margin: 10px 0;
+}
+
+.ww-fancy-box.fancy-box-style-8 {
+    text-align: center;
+    color: #fff;
+}
+
+.ww-fancy-box.fancy-box-style-8 .ww-fancy-box-title {
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-8 .ww-fancy-box-title i {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    display: block;
+    font-size: 45px;
+    height: 130px;
+    line-height: 130px;
+    margin: 0 auto 30px;
+    text-align: center;
+    width: 130px;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+    -webkit-box-shadow: 0 0 0 3px #FFFFFF;
+    -moz-box-shadow: 0 0 0 3px #FFFFFF;
+    box-shadow: 0 0 0 3px #FFFFFF;
+}
+
+.ww-fancy-box.fancy-box-style-8 .ww-fancy-box-title .title {
+    display: block;
+}
+
+.ww-fancy-box.fancy-box-style-8 .ww-read-more .read-more-link {
+    float: none;
+}
+
+.ww-fancy-box.fancy-box-style-8 .ww-fancy-box-title .ww-title-main {
+    color: #fff;
+}
+
+.ww-fancy-box.fancy-box-style-9 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    -webkit-box-shadow: 0 0 1px #F5F5F5;
+    -moz-box-shadow: 0 0 1px #F5F5F5;
+    box-shadow: 0 0 1px #F5F5F5;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-9 .ww-fancy-box-title {
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-9 .ww-fancy-box-title i {
+    display: block;
+    border-radius: 50%;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    width: 70px;
+    color: #FFFFFF;
+    margin: -60px auto 10px;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.ww-fancy-box.fancy-box-style-9 .ww-fancy-box-title .title {
+    display: block;
+}
+.ww-fancy-box.fancy-box-style-9 .ww-read-more .read-more-link {
+    float: none;
+}
+.ww-fancy-box.fancy-box-style-10 {
+    text-align: center;
+}
+
+.ww-fancy-box.fancy-box-style-10 .ww-title-main {
+    font-family: inherit;
+}
+.ww-fancy-box.fancy-box-style-10 i {
+    font-size: 52px;
+    display: block;
+}
+
+.ww-fancy-box.fancy-box-style-11 .ww-title-main {
+    display: inline-block;
+    font-family: inherit;
+}
+
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-title i {
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+    font-size: 28px;
+    margin-right: 15px;
+    display: inline-block;
+    text-align: center;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+}
+
+.ww-fancy-box.fancy-box-style-11 .ww-fancy-box-content {
+    padding-left: 80px;
+}
+
+.rtl .ww-fancy-box.fancy-box-style-11 .ww-fancy-box-content {
+    padding-left: 80px;
+}
+
+.ww-fancy-box.fancy-box-style-12 .ww-fancy-box-title i {
+    font-size: 47px;
+}
+
+.ww-fancy-box.fancy-box-style-12 .ww-fancy-box-title .ww-title-main {
+    display: inline-block;
+}
+
+/*** End Fancy Box ***/
+
+/* ==========================================================================
+   Start Drop Caps Style
+========================================================================== */
+.cs-dropcap .cs-icon.icon {
+    font-size: 29px;
+    color: #fff;
+    margin: 10px 10px 0 0;
+}
+
+.cs-dropcap .cs-icon.text {
+    font-size: 31px;
+    margin: 10px 10px 0 0;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.cs-dropcap.style-1 span.cs-icon,
+.cs-dropcap.style-2 span.cs-icon,
+.cs-dropcap.style-3 span.cs-icon {
+    display: inline-block;
+    line-height: 36px;
+    padding: 0;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+	float:left;
+}
+
+.cs-dropcap.style-4 span.cs-icon,
+.cs-dropcap.style-5 span.cs-icon,
+.cs-dropcap.style-6 span.cs-icon {
+    line-height: 42px;
+    padding: 0;
+    height: 42px;
+    width: 42px;
+    display: inline-block;
+    text-align: center;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    border-radius: 50px;
+
+}
+
+.rtl .cs-dropcap .cs-icon {
+    margin: 0 0 0 10px;
+}
+
+/* ==========================================================================
+   End Drop Caps Style
+========================================================================== */
+
+/* ==========================================================================
+   Start Pie Char
+   ========================================================================== */
+.ww-pie-chart.ww-style1 .ww-pie-chart-value,
+.ww-pie-chart.ww-style1 .ww-pie-chart-label,
+.ww-pie-chart.ww-style1 .ww-pie-chart-icon {
+    display: block;
+    font-size: 200%;
+    line-height: 20.8px;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 45%;
+    width: 100%;
+}
+
+.ww-pie-chart.ww-style1 .vc-pie-info {
+    position: relative;
+}
+
+.ww-pie-chart.ww-style2 .ww-pie-chart-value,
+.ww-pie-chart.ww-style2 .ww-pie-chart-label,
+.ww-pie-chart.ww-style2 .ww-pie-chart-icon {
+    color: #9A9A9A;
+    display: block;
+    font-family: opensans-bold-webfont;
+    font-size: 200%;
+    height: inherit !important;
+    left: 0;
+    line-height: 20.8px !important;
+    padding: 10px 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.ww-pie-chart.ww-style2 .ww-pie-chart-title {
+    display: block;
+    font-size: 100%;
+    left: 0;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    width: 100%;
+}
+
+.ww-pie-chart.ww-style2 .ww-pie-chart-title h4 {
+    padding: 0 30px;
+}
+
+.vc-pie-hide-value {
+    display: none !important;
+}
+
+.vc-pie-inner i {
+    font-size: 41px;
+}
+
+/* ==========================================================================
+   End Pi Char
+   ========================================================================== */
+
+/**** Short Code Button VC ****/
+.wpb_button_a {
+    display: block;
+    margin: 0 0 10px;
+}
+
+/* ==========================================================================
+   Cover Boxes styles
+   ========================================================================== */
+
+.cover_boxes {
+    position: relative;
+    overflow: hidden;
+}
+
+.cover_boxes ul {
+    list-style: none;
+    margin: 0px -20px 0px 0px;
+    padding: 0px;
+    width: 200%;
+}
+
+.cover_boxes ul li {
+    float: left;
+    margin-right: 20px;
+    overflow: hidden;
+    position: relative;
+    width: 265px;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+.cover_boxes ul li.active {
+    width: 530px;
+}
+
+.cover_boxes ul li .box {
+    width: 530px;
+}
+
+.cover_boxes ul li .box .thumb {
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+    z-index: 10;
+    width: 265px;
+}
+
+.cover_boxes ul li .box .thumb img {
+    display: block;
+    position: relative;
+    max-width: 100%;
+}
+
+.cover_boxes ul li .box .box_content {
+    bottom: 0px;
+    left: 285px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    width: 245px;
+    z-index: 9;
+    top: 0;
+}
+
+.cover_boxes ul li .box .cover_box_title {
+    margin: 0px 0px 18px 0px;
+}
+
+.cover_boxes ul li .box .qbutton {
+    margin: 20px 0px 0px 0px;
+}
+
+.cover_boxes .box_content .cover_box_title {
+    font-family: 'Novecentowide-Bold';
+    font-weight: normal;
+    line-height: 26px;
+    margin: 0 0 10px !important;
+}
+
+/* ==========================================================================
+   End of Cover Boxes styles
+   ========================================================================== */
+
+/* ==========================================================================
+Unordered list shortcode styles
+========================================================================== */
+ul.ordered, ol.ordered {
+    counter-reset: li;
+    display: block;
+    list-style-type: decimal;
+    background-position: left center;
+    background-repeat: no-repeat;
+    margin: 0 0 30px;
+    padding: 0 0 0 20px;
+}
+
+ul.cs_icon_list,
+ul.cs_list_circle,
+ul.cs_list_circleNumber,
+ul.cs_list_number {
+    padding: 0;
+}
+
+ol.ordered li,
+ul.cs_icon_list li,
+ul.cs_list_circle li,
+ul.cs_list_circleNumber li,
+ul.cs_list_number li {
+    margin: 0px 0px 20px;
+    padding: 0 0 0 4px;
+}
+
+ul.cs_icon_list.style1 span {
+    font-size: 16px;
+    margin-right: 10px;
+    color: #696969;
+}
+
+ul.cs_icon_list.style2 span {
+    border: 1px solid #696969;
+    color: #696969;
+    display: inline-block;
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 30px;
+    margin-right: 10px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+}
+
+ul.cs_list_circle li {
+    position: relative;
+    padding-left: 25px;
+}
+
+ul.cs_list_circle li:before {
+    border-radius: 25px;
+    content: "";
+    height: 7px;
+    left: 0;
+    position: absolute;
+    top: 9px;
+    width: 7px;
+}
+
+ul.cs_list_circleNumber, ul.cs_list_number {
+    counter-reset: li;
+}
+
+ul.cs_list_circleNumber li {
+    position: relative;
+    padding-left: 55px;
+}
+
+ul.cs_list_circleNumber li:before {
+    content: counter(li, decimal-leading-zero);
+    counter-increment: li;
+    display: inline-block;
+    font-weight: 500;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    width: 20px;
+    border-radius: 2em;
+    color: #fff;
+    height: 31px;
+    line-height: 31px;
+    top: -3px;
+    width: 31px;
+}
+
+ul.cs_list_number li {
+    position: relative;
+    padding-left: 35px;
+}
+
+ul.cs_list_number li:before {
+    content: counter(li, decimal-leading-zero);
+    counter-increment: li;
+    display: inline-block;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+/* ==========================================================================
+  Counter styles
+   ========================================================================== */
+.q_counter_holder.center {
+    padding: 50px 40px !important;
+}
+
+.q_counter_holder p.counter_text {
+    font-family: 'Novecentowide-Bold';
+    font-weight: normal;
+}
+
+.vc_pie_chart.wpb_content_element {
+    opacity: 1;
+}
+
+.vc_pie_chart .vc_pie_wrapper, .vc_pie_chart .vc_pie_chart_back, .vc_pie_chart canvas, .vc_pie_chart .vc_pie_wrapper .vc_pie_chart_value {
+    width: 177px !important;
+    height: 177px !important;
+    line-height: 177px !important;
+}
+
+.vc_pie_chart .vc_pie_wrapper .vc_pie_chart_value {
+    font-size: 41px;
+    font-weight: 700;
+}
+
+.vc_pie_chart .vc_pie_chart_back, .vc_pie_chart canvas {
+    border-color: #e9e9e9 !important;
+    border-width: 12px !important;
+}
+
+.vc_pie_chart .wpb_pie_chart_heading {
+    margin-top: 30px;
+    font-family: 'Novecentowide-Bold';
+    font-weight: normal;
+}
+
+.vc_pie_chart canvas {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+}
+
+/* ==========================================================================
+    Start Progress Bars Styles
+========================================================================== */
+.cs-progress-item {
+    margin-bottom: 30px;
+}
+
+.cs-progress-item .cs-progress-title h3 {
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'Novecentowide-Bold';
+    line-height: 26px;
+    margin: 0 0 5px !important;
+    text-transform: uppercase;
+}
+
+.cs-progress-item .progress {
+    background-color: #e9e9e9;
+    height: 24px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+
+.cs-progress-item .progress-bar {
+    height: 24px;
+    line-height: 25px !important;
+    text-align: right;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'Novecentowide-Bold';
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+
+.cs-progress-item .cs-progress-title.vertical h3 {
+    text-align: center;
+}
+
+.cs-progress-item .cs-progress-title.vertical span {
+    display: block;
+    height: 40px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.cs-progress-item .progress.vertical {
+    float: none;
+    margin: 0 auto;
+}
+
+.cs-progress-item .progress.vertical .progress-bar {
+    text-align: center;
+    padding: 5px 0px;
+}
+
+.rtl .cs-progress-item .progress-bar {
+    text-align: left;
+}
+
+/* ==========================================================================
+    End Progress Bars Styles
+========================================================================== */
+
+/* ==========================================================================
+   Cover Boxs Full
+========================================================================== */
+
+.cs-coverBoxs-grid .cs-coverBoxs-title {
+    color: #fff;
+    font-family: 'Novecentowide-Bold';
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.cs-coverBoxs-grid .effect-zoe .cs-coverBoxs-title {
+    color: #113a52;
+}
+
+.cs-coverBoxs-grid .effect-zoe h2.cs-coverBoxs-title {
+    color: #284b60;
+}
+
+.cs-coverBoxs-grid .cs-coverBoxs-content {
+    line-height: 26px;
+    color: #fff;
+    font-size: 13px;
+    text-transform: none;
+}
+
+.cs-coverBoxs-grid .cs-coverBoxs-icon {
+    text-align: end;
+    font-size: 22px;
+}
+
+.cs-coverBoxs-grid .cs-coverBoxs-icon span {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+/* ==========================================================================
+  Highlights
+========================================================================== */
+.cs-highlight-style-1, .cs-highlight-style-2 {
+    color: #fff;
+    padding: 0 2px;
+}
+
+/* ==========================================================================
+ interactive banner style
+========================================================================== */
+
+.cs-interactive-banner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.cs-interactive-banner .cs-interactive-image {
+}
+
+.cs-interactive-banner .cs-interactive-image img {
+    width: 100%;
+}
+
+.cs-interactive-banner .cs-interactive-content-wrap,
+.cs-interactive-banner .cs-interactive-content-hover-wrap {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 35px;
+    background: rgba(17, 58, 82, 0.4) !important;
+    color: #fff;
+    -webkit-transition: all 4s ease 0s;
+    -moz-transition: all 4s ease 0s;
+    -o-transition: all 4s ease 0s;
+    transition: all 4s ease 0s;
+}
+
+.cs-interactive-banner .cs-interactive-content-wrap .cs-interactive-icon {
+    float: left;
+    margin-right: 25px;
+    min-height: 100px;
+    width: 60px;
+}
+
+.cs-interactive-banner .cs-interactive-content-wrap .cs-interactive-icon i {
+    font-size: 60px;
+}
+
+.cs-interactive-banner .shortcode-title > span {
+    display: inline-block;
+    border-bottom: 4px solid #fff;
+    padding-bottom: 20px;
+}
+
+.cs-interactive-banner .shortcode-title {
+    color: #fff;
+}
+
+.cs-interactive-banner .cs-interactive-content-hover-wrap {
+    text-align: center;
+    background: rgba(17, 58, 82, 0.5) !important;
+}
+
+.cs-interactive-banner .cs-interactive-content-hover-wrap .cs-interactive-icon {
+    margin: 20px 0;
+}
+
+.cs-interactive-banner .cs-interactive-content-hover-wrap .cs-interactive-icon i {
+    font-size: 70px;
+}
+
+.cs-interactive-banner.style1 .cs-interactive-content-hover-wrap .cs-interactive-content {
+    padding: 6% 0 0 0px;
+}
+
+.cs-interactive-banner.style1 .cs-interactive-content-hover-wrap .cs-interactive-readmore {
+    margin-top: 25px;
+}
+
+.cs-interactive-banner.style1 .cs-interactive-content-wrap {
+    opacity: 1;
+    transition: all 0.4s ease-in-out 0.2s;
+}
+
+.cs-interactive-banner.style1:hover .cs-interactive-content-wrap {
+    opacity: 0;
+    transform: scale(0);
+    transition-delay: 0s;
+}
+
+.cs-interactive-banner.style1 .cs-interactive-content-hover-wrap {
+    background-color: rgba(0, 0, 0, 0.8);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transform: scale(0) rotate(-180deg);
+    -moz-transform: scale(0) rotate(-180deg);
+    -o-transform: scale(0) rotate(-180deg);
+    -ms-transform: scale(0) rotate(-180deg);
+    transform: scale(0) rotate(-180deg);
+    -webkit-transition: all 0.4s ease-in;
+    -moz-transition: all 0.4s ease-in;
+    -o-transition: all 0.4s ease-in;
+    -ms-transition: all 0.4s ease-in;
+    transition: all 0.4s ease-in;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.cs-interactive-banner.style1:hover .cs-interactive-content-hover-wrap {
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transform: scale(1) rotate(0deg);
+    -moz-transform: scale(1) rotate(0deg);
+    -o-transform: scale(1) rotate(0deg);
+    -ms-transform: scale(1) rotate(0deg);
+    transform: scale(1) rotate(0deg);
+    -webkit-transition-delay: 0.2s;
+    -moz-transition-delay: 0.2s;
+    -o-transition-delay: 0.2s;
+    -ms-transition-delay: 0.2s;
+    transition-delay: 0.2s;
+}
+
+/* style2 */
+.cs-interactive-banner.style2 .cs-interactive-content-inner {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 0 35px;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-wrap .cs-interactive-icon {
+    width: 40px;
+    text-align: center;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-wrap .cs-interactive-icon {
+    margin-right: 20px;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-wrap .cs-interactive-icon i {
+    font-size: 60px;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-hover-wrap .cs-interactive-icon i {
+    font-size: 60px;
+}
+
+.cs-interactive-banner.style2 .shortcode-title > span,
+.cs-interactive-banner.style3 .shortcode-title > span {
+    padding-bottom: 12px;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-hover-wrap .shortcode-title > span,
+.cs-interactive-banner.style3 .cs-interactive-content-hover-wrap .shortcode-title > span {
+    padding-bottom: 20px;
+}
+
+.cs-interactive-banner.style2 .shortcode-title,
+.cs-interactive-banner.style3 .shortcode-title {
+    margin-bottom: 6px;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-hover-wrap .shortcode-title,
+.cs-interactive-banner.style3 .cs-interactive-content-hover-wrap .shortcode-title {
+    margin-bottom: 10px;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-hover-wrap .cs-interactive-content,
+.cs-interactive-banner.style3 .cs-interactive-content-hover-wrap .cs-interactive-content {
+    padding-top: 20px;
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-wrap {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.cs-interactive-banner.style2:hover .cs-interactive-content-wrap {
+    -webkit-transform: translateX(-3000px);
+    -moz-transform: translateX(-3000px);
+    -o-transform: translateX(-3000px);
+    -ms-transform: translateX(-3000px);
+    transform: translateX(-3000px);
+}
+
+.cs-interactive-banner.style2 .cs-interactive-content-hover-wrap {
+    -webkit-transform: translateX(3000px);
+    -moz-transform: translateX(3000px);
+    -o-transform: translateX(3000px);
+    -ms-transform: translateX(3000px);
+    transform: translateX(3000px);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.cs-interactive-banner.style2:hover .cs-interactive-content-hover-wrap {
+    -webkit-transform: translateX(0px);
+    -moz-transform: translateX(0px);
+    -o-transform: translateX(0px);
+    -ms-transform: translateX(0px);
+    transform: translateX(0px);
+}
+
+/* style2 */
+.cs-interactive-banner.style3 .cs-interactive-content-inner {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 0 5%;
+}
+
+.cs-interactive-banner.style3 .cs-interactive-content-wrap .cs-interactive-icon {
+    width: 40px;
+    text-align: center;
+    float: right;
+    margin: 0 0 0 20px;
+}
+
+.cs-interactive-banner.style3 .cs-interactive-content-wrap .cs-interactive-content {
+    text-align: right;
+}
+
+.cs-interactive-banner.style3 .cs-interactive-content-wrap .cs-interactive-icon i {
+    font-size: 60px;
+}
+
+.cs-interactive-banner.style3 .cs-interactive-content-hover-wrap .cs-interactive-icon i {
+    font-size: 60px;
+}
+
+.cs-interactive-banner.style3 .cs-interactive-content-wrap {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.cs-interactive-banner.style3:hover .cs-interactive-content-wrap {
+    -webkit-transform: translateX(3000px);
+    -moz-transform: translateX(3000px);
+    -o-transform: translateX(3000px);
+    -ms-transform: translateX(3000px);
+    transform: translateX(3000px);
+}
+
+.cs-interactive-banner.style3 .cs-interactive-content-hover-wrap {
+    -webkit-transform: translateX(-3000px);
+    -moz-transform: translateX(-3000px);
+    -o-transform: translateX(-3000px);
+    -ms-transform: translateX(-3000px);
+    transform: translateX(-3000px);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.cs-interactive-banner.style3:hover .cs-interactive-content-hover-wrap {
+    -webkit-transform: translateX(0px);
+    -moz-transform: translateX(0px);
+    -o-transform: translateX(0px);
+    -ms-transform: translateX(0px);
+    transform: translateX(0px);
+}
+
+/* style 4 */
+.cs-interactive-banner.style4 {
+    text-align: center;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-wrap .cs-interactive-icon {
+    float: none;
+    margin: 10px 0;
+    text-align: center;
+    width: auto;
+    min-height: inherit;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-wrap .cs-interactive-icon i,
+.cs-interactive-banner.style4 .cs-interactive-content-hover-wrap .cs-interactive-icon i {
+    font-size: 40px;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-wrap {
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    -ms-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+
+.cs-interactive-banner.style4:hover .cs-interactive-content-wrap {
+    -webkit-transform: rotate(720deg) scale(0);
+    -moz-transform: rotate(720deg) scale(0);
+    -o-transform: rotate(720deg) scale(0);
+    -ms-transform: rotate(720deg) scale(0);
+    transform: rotate(720deg) scale(0);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-hover-wrap {
+    -webkit-transform: rotate(0deg) scale(1);
+    -moz-transform: rotate(0deg) scale(1);
+    -o-transform: rotate(0deg) scale(1);
+    -ms-transform: rotate(0deg) scale(1);
+    transform: rotate(0deg) scale(1);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.cs-interactive-banner.style4:hover .cs-interactive-content-hover-wrap {
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transform: translateY(0px) rotate(0deg);
+    -moz-transform: translateY(0px) rotate(0deg);
+    -o-transform: translateY(0px) rotate(0deg);
+    -ms-transform: translateY(0px) rotate(0deg);
+    transform: translateY(0px) rotate(0deg);
+    -webkit-transition-delay: 0.4s;
+    -moz-transition-delay: 0.4s;
+    -o-transition-delay: 0.4s;
+    -ms-transition-delay: 0.4s;
+    transition-delay: 0.4s;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-hover-wrap .shortcode-title {
+    -webkit-transform: translateY(-200px);
+    -moz-transform: translateY(-200px);
+    -o-transform: translateY(-200px);
+    -ms-transform: translateY(-200px);
+    transform: translateY(-200px);
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.cs-interactive-banner.style4:hover .cs-interactive-content-hover-wrap .shortcode-title {
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -o-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
+    -webkit-transition-delay: 0.7s;
+    -moz-transition-delay: 0.7s;
+    -o-transition-delay: 0.7s;
+    -ms-transition-delay: 0.7s;
+    transition-delay: 0.7s;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-hover-wrap .cs-interactive-icon {
+    transform: translateY(-200px);
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.cs-interactive-banner.style4:hover .cs-interactive-content-hover-wrap .cs-interactive-icon {
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -o-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
+    -webkit-transition-delay: 0.6s;
+    -moz-transition-delay: 0.6s;
+    -o-transition-delay: 0.6s;
+    -ms-transition-delay: 0.6s;
+    transition-delay: 0.6s;
+}
+
+.cs-interactive-banner.style4:hover .cs-interactive-content-hover-wrap .cs-interactive-short-description {
+    -webkit-transform: translateY(-200px);
+    -moz-transform: translateY(-200px);
+    -o-transform: translateY(-200px);
+    -ms-transform: translateY(-200px);
+    transform: translateY(-200px);
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.cs-interactive-banner.style4:hover .cs-interactive-content-hover-wrap .cs-interactive-short-description {
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -o-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
+    -webkit-transition-delay: 0.5s;
+    -moz-transition-delay: 0.5s;
+    -o-transition-delay: 0.5s;
+    -ms-transition-delay: 0.5s;
+    transition-delay: 0.5s;
+}
+
+/* style 5 */
+.cs-interactive-banner.style5 {
+    text-align: center;
+}
+
+.cs-interactive-banner.style5 .cs-interactive-content-wrap .cs-interactive-icon {
+    float: none;
+    margin: 10px 0;
+    text-align: center;
+    width: auto;
+    min-height: inherit;
+}
+
+.cs-interactive-banner.style5 .cs-interactive-content-wrap .cs-interactive-icon i,
+.cs-interactive-banner.style5 .cs-interactive-content-hover-wrap .cs-interactive-icon i {
+    font-size: 40px;
+}
+
+.cs-interactive-banner.style5 .cs-interactive-content-wrap {
+    opacity: 1;
+    transition: all 0.4s ease-in-out 0.2s;
+}
+
+.cs-interactive-banner.style5:hover .cs-interactive-content-wrap {
+    opacity: 0;
+    transform: scale(0);
+    transition-delay: 0s;
+}
+
+.cs-interactive-banner.style5 .cs-interactive-content-hover-wrap {
+    background-color: rgba(0, 0, 0, 0.8);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transform: scale(0) rotate(-180deg);
+    -moz-transform: scale(0) rotate(-180deg);
+    -o-transform: scale(0) rotate(-180deg);
+    -ms-transform: scale(0) rotate(-180deg);
+    transform: scale(0) rotate(-180deg);
+    -webkit-transition: all 0.4s ease-in;
+    -moz-transition: all 0.4s ease-in;
+    -o-transition: all 0.4s ease-in;
+    -ms-transition: all 0.4s ease-in;
+    transition: all 0.4s ease-in;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.cs-interactive-banner.style5:hover .cs-interactive-content-hover-wrap {
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transform: scale(1) rotate(0deg);
+    -moz-transform: scale(1) rotate(0deg);
+    -o-transform: scale(1) rotate(0deg);
+    -ms-transform: scale(1) rotate(0deg);
+    transform: scale(1) rotate(0deg);
+    -webkit-transition-delay: 0.2s;
+    -moz-transition-delay: 0.2s;
+    -o-transition-delay: 0.2s;
+    -ms-transition-delay: 0.2s;
+    transition-delay: 0.2s;
+}
+
+/* style 6 */
+.cs-interactive-banner.style6 {
+    text-align: center;
+}
+
+.cs-interactive-banner.style6 .cs-interactive-content-wrap .cs-interactive-icon {
+    float: none;
+    margin: 10px 0;
+    text-align: center;
+    width: auto;
+    min-height: inherit;
+}
+
+.cs-interactive-banner.style6 .cs-interactive-content-wrap .cs-interactive-icon i,
+.cs-interactive-banner.style6 .cs-interactive-content-hover-wrap .cs-interactive-icon i {
+    font-size: 40px;
+}
+
+.cs-interactive-banner.style6 .cs-interactive-content-wrap {
+    opacity: 1;
+    transition: all 0.4s ease-in-out 0.2s;
+}
+
+.cs-interactive-banner.style6:hover .cs-interactive-content-wrap {
+    opacity: 0;
+    transform: scale(0);
+    transition-delay: 0s;
+}
+
+.cs-interactive-banner.style6 .cs-interactive-content-hover-wrap {
+    background-color: rgba(0, 0, 0, 0.8);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transform: scale(0) rotate(-180deg);
+    -moz-transform: scale(0) rotate(-180deg);
+    -o-transform: scale(0) rotate(-180deg);
+    -ms-transform: scale(0) rotate(-180deg);
+    transform: scale(0) rotate(-180deg);
+    -webkit-transition: all 0.4s ease-in;
+    -moz-transition: all 0.4s ease-in;
+    -o-transition: all 0.4s ease-in;
+    -ms-transition: all 0.4s ease-in;
+    transition: all 0.4s ease-in;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.cs-interactive-banner.style6:hover .cs-interactive-content-hover-wrap {
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transform: scale(1) rotate(0deg);
+    -moz-transform: scale(1) rotate(0deg);
+    -o-transform: scale(1) rotate(0deg);
+    -ms-transform: scale(1) rotate(0deg);
+    transform: scale(1) rotate(0deg);
+    -webkit-transition-delay: 0.2s;
+    -moz-transition-delay: 0.2s;
+    -o-transition-delay: 0.2s;
+    -ms-transition-delay: 0.2s;
+    transition-delay: 0.2s;
+}
+
+.cs-interactive-banner.style4 .shortcode-title,
+.cs-interactive-banner.style5 .shortcode-title,
+.cs-interactive-banner.style6 .shortcode-title {
+    margin-bottom: 14px;
+}
+
+.cs-interactive-banner.style4 .shortcode-title > span,
+.cs-interactive-banner.style5 .shortcode-title > span,
+.cs-interactive-banner.style6 .shortcode-title > span {
+    padding-bottom: 14px;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-icon,
+.cs-interactive-banner.style5 .cs-interactive-icon,
+.cs-interactive-banner.style6 .cs-interactive-icon {
+    margin: 14% 0 !important;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-wrap,
+.cs-interactive-banner.style5 .cs-interactive-content-wrap,
+.cs-interactive-banner.style6 .cs-interactive-content-wrap {
+    padding: 0 35px;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-wrap .cs-interactive-icon i,
+.cs-interactive-banner.style5 .cs-interactive-content-wrap .cs-interactive-icon i,
+.cs-interactive-banner.style6 .cs-interactive-content-wrap .cs-interactive-icon i {
+    font-size: 60px;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-hover-wrap .cs-interactive-icon i,
+.cs-interactive-banner.style5 .cs-interactive-content-hover-wrap .cs-interactive-icon i,
+.cs-interactive-banner.style6 .cs-interactive-content-hover-wrap .cs-interactive-icon i {
+    display: none;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-hover-wrap .cs-interactive-icon,
+.cs-interactive-banner.style5 .cs-interactive-content-hover-wrap .cs-interactive-icon,
+.cs-interactive-banner.style6 .cs-interactive-content-hover-wrap .cs-interactive-icon {
+    margin: 0 !important;
+}
+
+.cs-interactive-banner.style4 .cs-interactive-content-hover-wrap .cs-interactive-content,
+.cs-interactive-banner.style5 .cs-interactive-content-hover-wrap .cs-interactive-content,
+.cs-interactive-banner.style6 .cs-interactive-content-hover-wrap .cs-interactive-content {
+    padding-top: 8%;
+}
+
+/* ==========================================================================
+  Testimonial Style 2
+========================================================================== */
+.cs-testimonial-style-2 .cs-testimonial-header.title-style-2 {
+    margin-bottom: 70px;
+}
+
+.cs-testimonial-wrapper.style-2 .cs-testimonial-description-style2 {
+    color: #fff;
+    margin-bottom: 60px;
+}
+
+.cs-testimonial-wrapper.style-2 .cs-testimonial-title, .cs-testimonial-header.title-style-2 .cs-testimonial-title {
+    color: #fff;
+}
+
+.cs-testimonial-wrapper.style-2 .cs-testimonial-content {
+    margin-bottom: 25px;
+}
+
+/* ==========================================================================
+  Block Quotes
+========================================================================== */
+.cs-quote-style-1, .cs-quote-style-2, .cs-quote-style-3 {
+    display: block;
+    font-family: Novecentowide-Bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 20px 100px;
+    padding: 0 60px;
+    position: relative;
+}
+
+.cs-quote-style-1:before, .cs-quote-style-3:before,
+.cs-quote-style-1:after, .cs-quote-style-3:after {
+    content: "";
+    font-family: FontAwesome;
+    font-size: 46px;
+    line-height: 56px;
+    position: absolute;
+    top: 0;
+}
+
+.cs-quote-style-1:before, .cs-quote-style-3:before {
+    content: "\f10d";
+    left: 0;
+}
+
+.cs-quote-style-1:after, .cs-quote-style-3:after {
+    content: "\f10e";
+    right: 0;
+}
+
+.cs-quote-style-2 {
+    padding: 10px 20px;
+}
+
+.cs-quote-style-3 {
+    padding: 15px 53px;
+    background: #f5f5f5;
+}
+
+.cs-quote-style-3:before, .cs-quote-style-3:after {
+    font-size: 28px;
+    line-height: 1;
+}
+
+.cs-quote-style-3:before {
+    left: 15px;
+    top: 10px;
+}
+
+.cs-quote-style-3:after {
+    right: 15px;
+    bottom: 10px;
+    top: inherit;
+}
+
+/* ==========================================================================
+  End Block Quotes
+========================================================================== */
+
+/* ==========================================================================
+  Start Call To Action
+========================================================================== */
+.cs_call_to_action {
+    margin: 20px 0 !important;
+}
+
+.cs_call_to_action.cs_align_right .cs-button-call, .cs_call_to_action.cs_align_left .wpb_call_text {
+    float: right;
+}
+
+.cs_call_to_action.cs_align_left .cs-button-call, .cs_call_to_action.cs_align_right .wpb_call_text {
+    float: left;
+}
+
+.cs_call_to_action .cs-button-call {
+    margin: 0;
+}
+
+.cs_call_to_action .wpb_call_text {
+    margin: 0;
+    font-size: 18px;
+    font-family: 'NovecentowideNormalRegular';
+    line-height: 36px;
+}
+
+/* ==========================================================================
+  End Call To Action
+========================================================================== */
+
+/* ==========================================================================
+  Start separator
+========================================================================== */
+.vc_separator .cs_separator_title {
+    margin: 0 0 20px;
+}
+.vc_separator .cs_separator_title h4 {
+    font-size: 18px;
+}
+.vc_separator_align_center .cs_separator_desc {
+    text-align: center;
+}
+.vc_separator_align_left .cs_separator_desc {
+    text-align: left;
+}
+.vc_separator_align_right .cs_separator_desc {
+    text-align: right;
+}
+.separator_arrow .arrow {
+    display: block;
+    position: absolute;
+    height: 15px;
+    width: 29px;
+    top: 0px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-width: 16px;
+    border-style: solid;
+}
+/* ==========================================================================
+  End separator
+========================================================================== */
+/*block number*/
+.de-blocknumber {
+    min-height: 45px;
+    padding: 5px 0 5px 60px;
+    position: relative;
+}
+.de-blocknumber span {
+    display: block;
+    font-weight: bold;
+    height: 48px;
+    left: 0;
+    line-height: 48px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 48px;
+}
+.de-blocknumber span.rounded {
+    border-radius: 5px;
+}
+.de-blocknumber span.circle {
+    border-radius: 100%;
+}
+/*form contact*/
+.form-item, .form-actions {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+tr.odd .form-item, tr.even .form-item {
+    margin-bottom: 0;
+    margin-top: 0;
+    white-space: nowrap;
+}
+.form-item .description {
+    font-size: 0.85em;
+}
+label {
+    display: block;
+    font-weight: bold;
+}
+label.option {
+    display: inline;
+    font-weight: normal;
+}
+.form-checkboxes .form-item, .form-radios .form-item {
+    margin-bottom: 0.4em;
+    margin-top: 0.4em;
+}
+.form-type-radio .description, .form-type-checkbox .description {
+    margin-left: 2.4em;
+}
+input.form-checkbox, input.form-radio {
+    vertical-align: middle;
+}
+.marker, .form-required {
+    color: #f00;
+}
+.form-item input.error, .form-item textarea.error, .form-item select.error {
+    border: 2px solid red;
+}
+input[type="text"], input[type="password"], input[type="email"], textarea, select {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #848688;
+    display: block;
+    font-size: 14px;
+    margin: 0;
+    max-width: 100%;
+    outline: medium none;
+}
+input[type="text"]:hover, input[type="text"]:focus, input[type="password"]:hover, input[type="password"]:focus, input[type="email"]:hover, input[type="email"]:focus, textarea:hover, textarea:focus, select:hover, select:focus {
+    border: 1px solid #008dff;
+}
+input[type="text"], input[type="password"], input[type="email"], textarea {
+    padding: 8px 9px;
+}
+.button, input[type="button"], input[type="submit"] {
+    border-radius: 2px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    outline: medium none;
+    padding: 8px 16px;
+    transition: all 0.2s ease-in-out 0s;
+    width: auto;
+}
+.form-type-checkbox input {
+    margin: 0 5px 0 0;
+}

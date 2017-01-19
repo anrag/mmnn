@@ -1,0 +1,14 @@
+.hex2rgba(@color, @transparent : 100){
+    background-color : fadeout( @color, @transparent ); 
+} 
+.fixedPosition(@fixed) when (@fixed=1){
+    position: fixed;
+}
+.fixedPosition(@fixed) when (@fixed=0){
+    position: static;
+}
+.backgroundImage(@position,@size: auto,@repeat: repeat,@parallax:0){
+    background-position: @position;
+    background-size: @size;
+    background-repeat: @repeat;
+}

@@ -1,0 +1,4416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OrganicFood\n"
+"POT-Creation-Date: 2015-11-05 13:51+0700\n"
+"PO-Revision-Date: 2015-11-05 13:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9
+msgid "404"
+msgstr ""
+
+#: 404.php:11
+msgid "Article not found"
+msgstr ""
+
+#: 404.php:12
+msgid "Go Back"
+msgstr ""
+
+#: 404.php:12 inc/template-tags.php:140 index.php:23 index.php:28
+msgid "Home"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:531
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.options.php:166
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:170
+msgid "Demo Content"
+msgstr ""
+
+#: admin/functions/functions.options.php:173
+msgid "<h3>Demo Content</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:176
+msgid "Responsive"
+msgstr ""
+
+#: admin/functions/functions.options.php:179
+msgid "<h3>Responsive Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:182
+msgid "Responsive Design"
+msgstr ""
+
+#: admin/functions/functions.options.php:183
+msgid "Use the responsive design features."
+msgstr ""
+
+#: admin/functions/functions.options.php:189
+msgid "Less"
+msgstr ""
+
+#: admin/functions/functions.options.php:192
+msgid "<h3>Less Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:195
+msgid "Use Less"
+msgstr ""
+
+#: admin/functions/functions.options.php:196
+msgid "Use the less."
+msgstr ""
+
+#: admin/functions/functions.options.php:203
+#: admin/functions/functions.options.php:210
+#: admin/functions/functions.options.php:211
+msgid "Smoothscroll"
+msgstr ""
+
+#: admin/functions/functions.options.php:206
+msgid "<h3>Smoothscroll Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:217
+#: admin/functions/functions.options.php:223
+#: framework/includes/vc_extra_shortcodes/portfolio.php:65
+msgid "Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:220
+msgid "<h3>Layout Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:224
+msgid "Select boxed or wide layout."
+msgstr ""
+
+#: admin/functions/functions.options.php:233
+msgid "Boxed Mode Only"
+msgstr ""
+
+#: admin/functions/functions.options.php:236
+msgid "<h3>Background options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:239
+#: admin/functions/functions.options.php:514
+msgid "Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:240
+msgid "Select an image or insert an image url to use for the backgroud."
+msgstr ""
+
+#: admin/functions/functions.options.php:246
+#: admin/functions/functions.options.php:521
+msgid "100% Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:247
+msgid ""
+"The background image display at 100% in width and height and scale according "
+"to the browser size."
+msgstr ""
+
+#: admin/functions/functions.options.php:253
+#: admin/functions/functions.options.php:529
+#: admin/functions/functions.options.php:909
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/functions/functions.options.php:254
+#: admin/functions/functions.options.php:530
+msgid "Select how the background image repeats."
+msgstr ""
+
+#: admin/functions/functions.options.php:259
+#: admin/functions/functions.options.php:536
+#: admin/functions/functions.options.php:903
+msgid "Background Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:260
+#: admin/functions/functions.options.php:537
+msgid "Select the position from where background image starts."
+msgstr ""
+
+#: admin/functions/functions.options.php:266
+msgid "Background Pattern"
+msgstr ""
+
+#: admin/functions/functions.options.php:267
+msgid ""
+"Display a pattern in the background. If Yes, select the pattern from below."
+msgstr ""
+
+#: admin/functions/functions.options.php:273
+msgid "Select a Background Pattern"
+msgstr ""
+
+#: admin/functions/functions.options.php:274
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:281
+msgid "Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:284
+msgid "<h3>Tracking / Space Before Head / Space Before Body Code</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:288
+#: admin/functions/functions.options.php:289
+msgid "Google Analytic"
+msgstr ""
+
+#: admin/functions/functions.options.php:296
+msgid "Tracking ID"
+msgstr ""
+
+#: admin/functions/functions.options.php:304
+msgid "Space before &lt;/head&gt;"
+msgstr ""
+
+#: admin/functions/functions.options.php:305
+msgid "Add code before the &lt;/head&gt; tag."
+msgstr ""
+
+#: admin/functions/functions.options.php:310
+msgid "Space before &lt;/body&gt;"
+msgstr ""
+
+#: admin/functions/functions.options.php:311
+msgid "Add code before the &lt;/body&gt; tag."
+msgstr ""
+
+#: admin/functions/functions.options.php:317
+#: admin/functions/functions.options.php:327
+msgid "Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:320
+msgid "Logo Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:323
+msgid "<h3>Logo Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:328
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: admin/functions/functions.options.php:333
+msgid "Logo Max Height"
+msgstr ""
+
+#: admin/functions/functions.options.php:334
+msgid "Enter logo width, In pixels, ex: 40px"
+msgstr ""
+
+#: admin/functions/functions.options.php:338
+msgid "Logo Margin"
+msgstr ""
+
+#: admin/functions/functions.options.php:339
+#: admin/functions/functions.options.php:345
+msgid "In pixels, top right bottom left, ex: 10px 10px 10px 10px"
+msgstr ""
+
+#: admin/functions/functions.options.php:344
+msgid "Logo Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:349
+msgid "Favicon Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:352
+msgid "<h3>Favicon Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:356
+msgid "Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:357
+msgid "Favicon for your website (16px x 16px)."
+msgstr ""
+
+#: admin/functions/functions.options.php:362
+msgid "Header"
+msgstr ""
+
+#: admin/functions/functions.options.php:365
+msgid "Header Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:368
+msgid "<h3>Header Content Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:379
+msgid "Select a Header Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:385
+msgid "Transparent Header"
+msgstr ""
+
+#: admin/functions/functions.options.php:386
+msgid "Transparent Header.<br /> Min: 0, max: 100, step: 1, default value: 100"
+msgstr ""
+
+#: admin/functions/functions.options.php:394
+msgid "Header Top Widgets"
+msgstr ""
+
+#: admin/functions/functions.options.php:395
+msgid "Display header top widgets."
+msgstr ""
+
+#: admin/functions/functions.options.php:401
+#: admin/functions/functions.options.php:402
+msgid "Header Fixed"
+msgstr ""
+
+#: admin/functions/functions.options.php:408
+msgid "Header Margin"
+msgstr ""
+
+#: admin/functions/functions.options.php:409
+msgid ""
+"Header Margin, In pixels, top left botton right, ex: 10px 10px 10px 10px"
+msgstr ""
+
+#: admin/functions/functions.options.php:413
+msgid "Header Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:414
+msgid ""
+"Header Padding, In pixels, top left botton right, ex: 10px 10px 10px 10px"
+msgstr ""
+
+#: admin/functions/functions.options.php:418
+msgid "Sticky Header Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:421
+msgid "<h3>Sticky Header Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:425
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: admin/functions/functions.options.php:426
+msgid "Enable a fixed header when scrolling."
+msgstr ""
+
+#: admin/functions/functions.options.php:432
+msgid "Sticky Header Opacity"
+msgstr ""
+
+#: admin/functions/functions.options.php:433
+msgid ""
+"Set the opacity of background.<br /> Min: 0, max: 100, step: 1, default "
+"value: 45"
+msgstr ""
+
+#: admin/functions/functions.options.php:446
+msgid "Main Menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:449
+msgid "Menu Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:452
+msgid "<h3>Menu Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:455
+msgid "Menu Item Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:456
+msgid "Use a number without 'px', default is 5px 15px. ex: 5px 15px"
+msgstr ""
+
+#: admin/functions/functions.options.php:460
+msgid "Menu Font Size First Level"
+msgstr ""
+
+#: admin/functions/functions.options.php:461
+msgid "Use a number without 'px', default is 13px. ex: 13px"
+msgstr ""
+
+#: admin/functions/functions.options.php:465
+msgid "Menu Font Size First Sublevel"
+msgstr ""
+
+#: admin/functions/functions.options.php:466
+msgid "Use a number without 'px', default is 12px. ex: 12px"
+msgstr ""
+
+#: admin/functions/functions.options.php:471
+msgid "Footer"
+msgstr ""
+
+#: admin/functions/functions.options.php:473
+msgid "Footer Top Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:476
+msgid "<h3>Footer Top Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:479
+msgid "Footer Top Widgets"
+msgstr ""
+
+#: admin/functions/functions.options.php:480
+msgid "Display footer top widgets."
+msgstr ""
+
+#: admin/functions/functions.options.php:487
+msgid "Number of Footer Top Columns"
+msgstr ""
+
+#: admin/functions/functions.options.php:488
+msgid "Select the number of columns to display in the footer top."
+msgstr ""
+
+#: admin/functions/functions.options.php:493
+msgid "Class Footer Widget 1"
+msgstr ""
+
+#: admin/functions/functions.options.php:494
+#: admin/functions/functions.options.php:499
+#: admin/functions/functions.options.php:504
+#: admin/functions/functions.options.php:509
+#: admin/functions/functions.options.php:574
+#: admin/functions/functions.options.php:579
+msgid "Class follow the Bootstrap 3"
+msgstr ""
+
+#: admin/functions/functions.options.php:498
+msgid "Class Footer Widget 2"
+msgstr ""
+
+#: admin/functions/functions.options.php:503
+msgid "Class Footer Widget 3"
+msgstr ""
+
+#: admin/functions/functions.options.php:508
+msgid "Class Footer Widget 4"
+msgstr ""
+
+#: admin/functions/functions.options.php:515
+msgid ""
+"Select an image or insert an image url to use for the footer top area "
+"backgroud."
+msgstr ""
+
+#: admin/functions/functions.options.php:522
+msgid ""
+"The footer top background image display at 100% in width and height and "
+"scale according to the browser size."
+msgstr ""
+
+#: admin/functions/functions.options.php:542
+msgid "Footer Top Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:543
+msgid "In pixels, top left botton right, ex: 35px 0px"
+msgstr ""
+
+#: admin/functions/functions.options.php:547
+msgid "Footer Top Margin"
+msgstr ""
+
+#: admin/functions/functions.options.php:548
+#: admin/functions/functions.options.php:585
+#: admin/functions/functions.options.php:590
+msgid "In pixels, top left botton right, ex: 10px 10px 10px 10px"
+msgstr ""
+
+#: admin/functions/functions.options.php:553
+msgid "Footer Bottom Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:556
+msgid "<h3>Footer Bottom Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:559
+msgid "Footer Bottom Widgets"
+msgstr ""
+
+#: admin/functions/functions.options.php:560
+msgid "Check the box to display footer bottom widgets."
+msgstr ""
+
+#: admin/functions/functions.options.php:567
+msgid "Number of Footer Bottom Columns"
+msgstr ""
+
+#: admin/functions/functions.options.php:568
+msgid "Select the number of columns to display in the footer bottom."
+msgstr ""
+
+#: admin/functions/functions.options.php:573
+msgid "Class Footer Bottom Widget 1"
+msgstr ""
+
+#: admin/functions/functions.options.php:578
+msgid "Class Footer Bottom Widget 2"
+msgstr ""
+
+#: admin/functions/functions.options.php:584
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:589
+msgid "Footer Bottom Margin"
+msgstr ""
+
+#: admin/functions/functions.options.php:595
+msgid "Styling Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:599
+msgid "Main Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:602
+msgid "<h3>Main Color</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:605
+msgid "Preset Color Scheme"
+msgstr ""
+
+#: admin/functions/functions.options.php:606
+msgid ""
+"Select a scheme, all color options will automatically change to the defined "
+"scheme."
+msgstr ""
+
+#: admin/functions/functions.options.php:611
+msgid "Primary Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:612
+msgid "Controls several items, ex: link hovers, highlights, and more."
+msgstr ""
+
+#: admin/functions/functions.options.php:616
+msgid "Heading Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:617
+#: admin/functions/functions.options.php:725
+msgid "Heading Color."
+msgstr ""
+
+#: admin/functions/functions.options.php:621
+msgid "Link Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:622
+#: admin/functions/functions.options.php:735
+msgid "Controls the color of all text links."
+msgstr ""
+
+#: admin/functions/functions.options.php:626
+msgid "Link Color Hover"
+msgstr ""
+
+#: admin/functions/functions.options.php:627
+msgid "Link Color Hover."
+msgstr ""
+
+#: admin/functions/functions.options.php:632
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:633
+msgid "Controls the text color of buttons."
+msgstr ""
+
+#: admin/functions/functions.options.php:637
+msgid "Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:638
+msgid "Select a background color."
+msgstr ""
+
+#: admin/functions/functions.options.php:642
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:643
+msgid "Controls the text color of body font."
+msgstr ""
+
+#: admin/functions/functions.options.php:647
+msgid "Main Menu Colors"
+msgstr ""
+
+#: admin/functions/functions.options.php:650
+msgid "<h3>Main Menu Colors</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:653
+msgid "Main Menu Font Color - First Level"
+msgstr ""
+
+#: admin/functions/functions.options.php:654
+msgid "Controls the text color of first level menu items."
+msgstr ""
+
+#: admin/functions/functions.options.php:659
+msgid "Main Menu Font Hover Color - First Level"
+msgstr ""
+
+#: admin/functions/functions.options.php:660
+msgid "Controls the main menu hover, hover border & dropdown border color."
+msgstr ""
+
+#: admin/functions/functions.options.php:665
+msgid "Main Menu Background Color - Sublevels"
+msgstr ""
+
+#: admin/functions/functions.options.php:666
+msgid "Controls the color of the menu sublevel background."
+msgstr ""
+
+#: admin/functions/functions.options.php:671
+msgid "Main Menu Background Hover Color - Sublevels"
+msgstr ""
+
+#: admin/functions/functions.options.php:672
+msgid "Controls the hover color of the menu sublevel background."
+msgstr ""
+
+#: admin/functions/functions.options.php:677
+msgid "Main Menu Font Color - Sublevels"
+msgstr ""
+
+#: admin/functions/functions.options.php:678
+#: admin/functions/functions.options.php:684
+msgid "Controls the color of the menu font sublevels."
+msgstr ""
+
+#: admin/functions/functions.options.php:683
+msgid "Main Menu Font Hover Color - Sublevels"
+msgstr ""
+
+#: admin/functions/functions.options.php:689
+msgid "Main Menu Separator - Sublevels"
+msgstr ""
+
+#: admin/functions/functions.options.php:690
+msgid "Controls the color of the menu separator sublevels."
+msgstr ""
+
+#: admin/functions/functions.options.php:696
+msgid "Header Color Option"
+msgstr ""
+
+#: admin/functions/functions.options.php:699
+msgid "<h3>Header Color Option</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:702
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:703
+msgid "Header Background Color."
+msgstr ""
+
+#: admin/functions/functions.options.php:707
+msgid "Header Sticky Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:708
+msgid "Header Sticky Background Color."
+msgstr ""
+
+#: admin/functions/functions.options.php:713
+msgid "Title Bar Color Option"
+msgstr ""
+
+#: admin/functions/functions.options.php:716
+msgid "<h3>Title Bar Color Option</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:719
+msgid "Title Bar Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:720
+msgid "Title Bar Background Color."
+msgstr ""
+
+#: admin/functions/functions.options.php:724
+msgid "Title Bar Heading Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:729
+msgid "Title Bar Text Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:730
+msgid "Controls the color of all text."
+msgstr ""
+
+#: admin/functions/functions.options.php:734
+msgid "Title Bar Link Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:739
+msgid "Title Bar Link Color Hover"
+msgstr ""
+
+#: admin/functions/functions.options.php:740
+msgid "Controls the color of all text links hover."
+msgstr ""
+
+#: admin/functions/functions.options.php:745
+msgid "Footer Color Option"
+msgstr ""
+
+#: admin/functions/functions.options.php:748
+msgid "<h3>Footer Color Option</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:751
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:752
+msgid "Footer Top Background Color."
+msgstr ""
+
+#: admin/functions/functions.options.php:756
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:757
+msgid "Footer Bottom Background Color."
+msgstr ""
+
+#: admin/functions/functions.options.php:761
+msgid "Footer Headings Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:762
+msgid "Controls the text color of the footer heading font."
+msgstr ""
+
+#: admin/functions/functions.options.php:766
+msgid "Footer Font Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:767
+msgid "Controls the text color of the footer font."
+msgstr ""
+
+#: admin/functions/functions.options.php:771
+msgid "Footer Link Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:772
+msgid "Controls the text color of the footer link font."
+msgstr ""
+
+#: admin/functions/functions.options.php:776
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:777
+msgid "Footer Link Hover Color."
+msgstr ""
+
+#: admin/functions/functions.options.php:784
+msgid "Typography"
+msgstr ""
+
+#: admin/functions/functions.options.php:788
+msgid "Body Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:791
+msgid "<h3>Body Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:794
+msgid "Body Font Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:795
+msgid "Body Font Options."
+msgstr ""
+
+#: admin/functions/functions.options.php:801
+msgid "Google Body Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:802
+msgid "Google body font family."
+msgstr ""
+
+#: admin/functions/functions.options.php:808
+msgid "Standard Body Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:809
+msgid "Standard Body Font Family."
+msgstr ""
+
+#: admin/functions/functions.options.php:815
+msgid "Custom Body Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:816
+msgid "Custom Body Font Family."
+msgstr ""
+
+#: admin/functions/functions.options.php:823
+#: admin/functions/functions.options.php:824
+msgid "Body Font Family Selector"
+msgstr ""
+
+#: admin/functions/functions.options.php:829
+#: admin/functions/functions.options.php:830
+msgid "Body Font Size"
+msgstr ""
+
+#: admin/functions/functions.options.php:837
+msgid "Other Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:840
+msgid "<h3>Other Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:844
+msgid "Other Font Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:845
+msgid "Other Font Options."
+msgstr ""
+
+#: admin/functions/functions.options.php:851
+msgid "Google Other Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:852
+msgid "Google Other font family."
+msgstr ""
+
+#: admin/functions/functions.options.php:858
+msgid "Standard Other Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:859
+msgid "Standard Other Font Family."
+msgstr ""
+
+#: admin/functions/functions.options.php:865
+msgid "Custom Other Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:866
+msgid "Custom Other Font Family."
+msgstr ""
+
+#: admin/functions/functions.options.php:872
+#: admin/functions/functions.options.php:873
+msgid "Other Font Family Selector"
+msgstr ""
+
+#: admin/functions/functions.options.php:882
+#: framework/includes/vc_extra_shortcodes/blog.php:7
+msgid "Blog"
+msgstr ""
+
+#: admin/functions/functions.options.php:885
+msgid "Blog Title Bar Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:888
+msgid "<h3>Blog Title Bar Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:891
+#: framework/includes/vc_extra_shortcodes/block-number.php:63
+#: framework/includes/vc_extra_shortcodes/block-text.php:28
+#: framework/includes/vc_extra_shortcodes/block-text.php:31
+#: framework/includes/vc_extra_shortcodes/bubble.php:23
+msgid "Background"
+msgstr ""
+
+#: admin/functions/functions.options.php:892
+msgid "Select an image file for your background title bar."
+msgstr ""
+
+#: admin/functions/functions.options.php:897
+msgid "Background Size"
+msgstr ""
+
+#: admin/functions/functions.options.php:898
+msgid "Select background size for your background title bar."
+msgstr ""
+
+#: admin/functions/functions.options.php:904
+msgid "Select background position for your background title bar."
+msgstr ""
+
+#: admin/functions/functions.options.php:910
+msgid "Select background repeat for your background title bar."
+msgstr ""
+
+#: admin/functions/functions.options.php:915
+#: framework/includes/vc_extra_shortcodes/block-text.php:57
+#: framework/includes/vc_extra_shortcodes/block-text.php:60
+#: framework/includes/vc_extra_shortcodes/bubble.php:48
+#: framework/includes/vc_extra_shortcodes/page-title.php:49
+msgid "Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:916
+msgid "Padding of title bar."
+msgstr ""
+
+#: admin/functions/functions.options.php:920
+#: framework/includes/vc_extra_shortcodes/page-title.php:57
+msgid "Margin"
+msgstr ""
+
+#: admin/functions/functions.options.php:921
+msgid "margin of title bar."
+msgstr ""
+
+#: admin/functions/functions.options.php:925
+#: admin/functions/functions.options.php:926
+msgid "Show Page Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:932
+#: admin/functions/functions.options.php:933
+msgid "Show Page Breadcrumb"
+msgstr ""
+
+#: admin/functions/functions.options.php:939
+#: framework/includes/vc_extra_shortcodes/breadcrumb.php:17
+msgid "Delimiter"
+msgstr ""
+
+#: admin/functions/functions.options.php:940
+msgid "Delimiter of page breadcrumb."
+msgstr ""
+
+#: admin/functions/functions.options.php:945
+msgid "Blog Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:948
+msgid "<h3>Blog Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:951
+#: admin/functions/functions.options.php:952
+msgid "Show Info Blog"
+msgstr ""
+
+#: admin/functions/functions.options.php:959
+msgid "Blog Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:960
+#: admin/functions/functions.options.php:1022
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: admin/functions/functions.options.php:970
+#: framework/includes/vc_extra_shortcodes/blog.php:229
+#: framework/includes/vc_extra_shortcodes/grid.php:142
+#: framework/includes/vc_extra_shortcodes/portfolio.php:125
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:310
+#: framework/widgets/post_carousel.php:267
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/functions/functions.options.php:971
+msgid "Insert the number of words you want to show in the post excerpts."
+msgstr ""
+
+#: admin/functions/functions.options.php:975
+#: framework/includes/vc_extra_shortcodes/blog.php:240
+#: framework/includes/vc_extra_shortcodes/grid.php:149
+#: framework/includes/vc_extra_shortcodes/grid.php:152
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:321
+#: framework/widgets/post_carousel.php:276
+msgid "Excerpt More"
+msgstr ""
+
+#: admin/functions/functions.options.php:976
+msgid "Insert the character of words you want to show in the post excerpts."
+msgstr ""
+
+#: admin/functions/functions.options.php:980
+msgid "Post Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:983
+msgid "<h3>Post Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:986
+#: admin/functions/functions.options.php:987
+msgid "Show Title Post"
+msgstr ""
+
+#: admin/functions/functions.options.php:993
+#: admin/functions/functions.options.php:994
+msgid "Show Info Post"
+msgstr ""
+
+#: admin/functions/functions.options.php:1000
+#: admin/functions/functions.options.php:1001
+msgid "Show Comments Post"
+msgstr ""
+
+#: admin/functions/functions.options.php:1007
+msgid "Show Tags"
+msgstr ""
+
+#: admin/functions/functions.options.php:1008
+msgid "Show Tags Post"
+msgstr ""
+
+#: admin/functions/functions.options.php:1014
+#: admin/functions/functions.options.php:1015
+msgid "Previous/Next Pagination"
+msgstr ""
+
+#: admin/functions/functions.options.php:1021
+msgid "Post Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:1034 framework/metaboxes.php:31
+msgid "Page Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1037
+msgid "<h3>Page Options</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:1040
+#: admin/functions/functions.options.php:1041
+msgid "Show Comments Page"
+msgstr ""
+
+#: admin/functions/functions.options.php:1048
+#: admin/functions/functions.options.php:1051
+msgid "Icon Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:1054
+msgid "<h3>Icon Font</h3>"
+msgstr ""
+
+#: admin/functions/functions.options.php:1057
+msgid "Use Font Awesome"
+msgstr ""
+
+#: admin/functions/functions.options.php:1058
+msgid "Use Font Awesome."
+msgstr ""
+
+#: admin/functions/functions.options.php:1064
+msgid "Use Font Ionicons"
+msgstr ""
+
+#: admin/functions/functions.options.php:1065
+msgid "Use Font Ionicons."
+msgstr ""
+
+#: admin/functions/functions.options.php:1072
+#: admin/functions/functions.options.php:1075
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:1076
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/functions/functions.options.php:1082
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1086
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1090
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: admin/functions/functions.options.php:1093
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: admin/functions/functions.options.php:1097
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: admin/meta-boxes/meta-config.php:55
+msgid "Upload"
+msgstr ""
+
+#: admin/meta-boxes/meta-config.php:56
+msgid "Remove Upload"
+msgstr ""
+
+#: admin/meta-boxes/meta-config.php:67
+msgid "Add Media"
+msgstr ""
+
+#: admin/meta-boxes/meta-config.php:68
+msgid "Remove Media"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:13
+msgid "Recipe Setting"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:20
+msgid "Extra Excerpt"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:21
+msgid "Enter extra excerpt of post recipe."
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:36
+msgid "Team Setting"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:43
+msgid "Team Position"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:44
+msgid "Enter team position of post team."
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:50
+msgid "Team Skill"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:51
+msgid "Enter team skill of post team."
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:57
+msgid "Facebook Link"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:58
+msgid "Enter facebook link of post team."
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:64
+msgid "Twitter Link"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:65
+msgid "Enter twitter link of post team."
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:71
+msgid "Google Plus Link"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:72
+msgid "Enter google plust link of post team."
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:78
+msgid "Linkedin Link"
+msgstr ""
+
+#: admin/meta-boxes/post-meta.php:79
+msgid "Enter linkedin link of post team."
+msgstr ""
+
+#: admin/sample/wordpress-importer/parsers.php:42
+#: admin/sample/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: admin/sample/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: admin/sample/wordpress-importer/parsers.php:67
+#: admin/sample/wordpress-importer/parsers.php:72
+#: admin/sample/wordpress-importer/parsers.php:262
+#: admin/sample/wordpress-importer/parsers.php:446
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:134
+#: admin/sample/wordpress-importer/wordpress-importer.php:185
+#: admin/sample/wordpress-importer/wordpress-importer.php:189
+#: admin/sample/wordpress-importer/wordpress-importer.php:198
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:169
+msgid "All done."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:169
+msgid "Have fun!"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:170
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:190
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:206
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:231
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:257
+msgid "Assign Authors"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:258
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:260
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:270
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:273
+msgid "Download and import file attachments"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:277
+msgid "Submit"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:290
+msgid "Import author:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:301
+msgid "or create new user with login name:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:304
+msgid "as a new user:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:312
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:314
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:315
+msgid "- Select -"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:365
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:414
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:452
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:496
+#: admin/sample/wordpress-importer/wordpress-importer.php:624
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:518
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:539
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:596
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:760
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:767
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:830
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:843
+msgid "Invalid file type"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:887
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:893
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:900
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:905
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:911
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1023
+msgid "Import WordPress"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1030
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1045
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1046
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1121
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: admin/tgm-plugin-activation/plugin-options.php:79
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: admin/tgm-plugin-activation/plugin-options.php:80
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#: admin/tgm-plugin-activation/plugin-options.php:81
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#: admin/tgm-plugin-activation/plugin-options.php:82
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#: admin/tgm-plugin-activation/plugin-options.php:83
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#: admin/tgm-plugin-activation/plugin-options.php:84
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#: admin/tgm-plugin-activation/plugin-options.php:89
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#: admin/tgm-plugin-activation/plugin-options.php:86
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#: admin/tgm-plugin-activation/plugin-options.php:87
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+#: admin/tgm-plugin-activation/plugin-options.php:91
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: admin/tgm-plugin-activation/plugin-options.php:92
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: admin/tgm-plugin-activation/plugin-options.php:93
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3031
+#: admin/tgm-plugin-activation/plugin-options.php:94
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2834
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:830
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3440
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:940
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1118
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2830
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1883
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2169
+msgid "Required"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2172
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2188
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2191
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2194
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2211
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2215
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2217
+msgid "Active"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2223
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2229
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2237
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2282
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2285
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2373
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2381
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2389
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2401
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2438
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2439
+msgid "Source"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2440
+#: framework/includes/vc_extra_shortcodes/block-number.php:16
+#: framework/includes/vc_extra_shortcodes/block-number.php:24
+#: framework/includes/vc_extra_shortcodes/block-text.php:10
+#: framework/includes/vc_extra_shortcodes/block-text.php:17
+#: framework/includes/vc_extra_shortcodes/page-title.php:16
+msgid "Type"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2444
+msgid "Version"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2445
+msgid "Status"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2497
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2502
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2572
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2605
+msgid "Install"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2611
+msgid "Update"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2685
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2790
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2816
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3030
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3371
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3373
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3377
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3380
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:85
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:88
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:90
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:95
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: comments.php:32 comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33 comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34 comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/includes/resize.php:65 framework/includes/resize.php:170
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: framework/includes/resize.php:143
+msgid "No image URL has been entered."
+msgstr ""
+
+#: framework/includes/resize.php:192
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr ""
+
+#: framework/includes/resize.php:225
+msgid "Resize path invalid (GIF)"
+msgstr ""
+
+#: framework/includes/resize.php:229
+msgid "Resize path invalid (PNG)."
+msgstr ""
+
+#: framework/includes/resize.php:236
+msgid "Resize path invalid (JPG)."
+msgstr ""
+
+#: framework/includes/resize.php:247
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:6
+msgid "Row style"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:18
+msgid "Full Width"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:24
+msgid "Row Content Full Width"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:30
+msgid "Link color"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:33
+msgid "Select color for link."
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:39
+msgid "Link color hover"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:42
+msgid "Select color for link hover."
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:48
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:204
+msgid "Same height"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:51
+#: framework/includes/vc_extra_params.php:79
+#: framework/includes/vc_extra_shortcodes/block.php:55
+#: framework/includes/vc_extra_shortcodes/blog.php:180
+#: framework/includes/vc_extra_shortcodes/blog.php:201
+#: framework/includes/vc_extra_shortcodes/blog.php:210
+#: framework/includes/vc_extra_shortcodes/blog.php:219
+#: framework/includes/vc_extra_shortcodes/blog.php:253
+#: framework/includes/vc_extra_shortcodes/blog.php:298
+#: framework/includes/vc_extra_shortcodes/grid.php:30
+#: framework/includes/vc_extra_shortcodes/grid.php:106
+#: framework/includes/vc_extra_shortcodes/grid.php:127
+#: framework/includes/vc_extra_shortcodes/grid.php:136
+#: framework/includes/vc_extra_shortcodes/plan.php:28
+#: framework/includes/vc_extra_shortcodes/portfolio.php:46
+#: framework/includes/vc_extra_shortcodes/portfolio.php:78
+#: framework/includes/vc_extra_shortcodes/portfolio.php:87
+#: framework/includes/vc_extra_shortcodes/portfolio.php:96
+#: framework/includes/vc_extra_shortcodes/portfolio.php:105
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:144
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:191
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:207
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:216
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:239
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:248
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:261
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:274
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:287
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:300
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:84
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:93
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:102
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:111
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:120
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:129
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:138
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:147
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:182
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:191
+#: framework/includes/vc_extra_shortcodes/social.php:139
+#: framework/includes/vc_extra_shortcodes/title.php:49
+msgid "Yes, please"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:53
+msgid "Set the same hight for all column in this row."
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:59
+#: framework/includes/vc_extra_params.php:129
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:56
+#: framework/includes/vc_extra_shortcodes/featured-box.php:132
+#: framework/includes/vc_extra_shortcodes/featured-box.php:143
+#: framework/includes/vc_extra_shortcodes/google-chart.php:45
+#: framework/includes/vc_extra_shortcodes/google-chart.php:56
+#: framework/includes/vc_extra_shortcodes/panel-box.php:55
+#: framework/includes/vc_extra_shortcodes/panel-box.php:66
+#: framework/includes/vc_extra_shortcodes/social.php:159
+#: framework/includes/vc_extra_shortcodes/social.php:169
+#: framework/includes/vc_extra_shortcodes/title.php:56
+#: framework/includes/vc_extra_shortcodes/title.php:67
+msgid "Animation"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:76
+msgid "Enable parallax"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:86
+msgid "Parallax speed"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:93
+msgid "Video background (mp4)"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:105
+msgid "Video background (ogv)"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:117
+msgid "Video background (webm)"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:146
+msgid "Column Align"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:163
+#: framework/includes/vc_extra_shorcodes.php:53
+#: framework/includes/vc_extra_shortcodes/block.php:16
+#: framework/includes/vc_extra_shortcodes/block.php:23
+#: framework/includes/vc_extra_shortcodes/blog.php:131
+#: framework/includes/vc_extra_shortcodes/blog.php:146
+#: framework/includes/vc_extra_shortcodes/blog.php:163
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:16
+#: framework/includes/vc_extra_shortcodes/google-chart.php:16
+#: framework/includes/vc_extra_shortcodes/google-chart.php:23
+#: framework/includes/vc_extra_shortcodes/grid.php:93
+#: framework/includes/vc_extra_shortcodes/grid.php:99
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:12
+msgid "Style"
+msgstr ""
+
+#: framework/includes/vc_extra_params.php:175
+msgid "Size"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:16
+msgid "Tabs"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:21
+#: framework/includes/vc_extra_shortcodes/block-number.php:47
+#: framework/includes/vc_extra_shortcodes/block-text.php:65
+#: framework/includes/vc_extra_shortcodes/block-text.php:68
+#: framework/includes/vc_extra_shortcodes/block.php:62
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:49
+#: framework/includes/vc_extra_shortcodes/bubble.php:54
+#: framework/includes/vc_extra_shortcodes/dropcap.php:11
+#: framework/includes/vc_extra_shortcodes/plan.php:43
+#: framework/includes/vc_extra_shortcodes/stats.php:33
+msgid "Content"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:22
+msgid "Tabbed content"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:26
+msgid "Widget title"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:28
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:32
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:35
+msgid "Disable"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:42
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:46
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:375
+msgid "Extra class name"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:48
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:377
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:70
+msgid "Tab 1"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:71
+msgid "Tab 2"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:76
+msgid "Tab"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:84
+#: framework/includes/vc_extra_shortcodes/block-number.php:39
+#: framework/includes/vc_extra_shortcodes/block.php:29
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:35
+#: framework/includes/vc_extra_shortcodes/google-chart.php:29
+#: framework/includes/vc_extra_shortcodes/panel-box.php:17
+#: framework/includes/vc_extra_shortcodes/piegraph.php:17
+#: framework/includes/vc_extra_shortcodes/title.php:7
+#: framework/includes/vc_extra_shortcodes/title.php:17
+#: framework/widgets/post_carousel.php:22
+#: framework/widgets/post_carousel.php:315
+#: framework/widgets/product_carousel.php:22
+#: framework/widgets/woo-my-account.php:22
+msgid "Title"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:86
+msgid "Tab title."
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:90
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:42
+#: framework/includes/vc_extra_shortcodes/icon.php:7
+#: framework/includes/vc_extra_shortcodes/panel-box.php:25
+msgid "Icon"
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:92
+msgid "Icon class."
+msgstr ""
+
+#: framework/includes/vc_extra_shorcodes.php:96
+msgid "Tab ID"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:7
+msgid "Block Number"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:10
+#: framework/includes/vc_extra_shortcodes/block-text.php:6
+#: framework/includes/vc_extra_shortcodes/block.php:10
+#: framework/includes/vc_extra_shortcodes/blog.php:10
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:10
+#: framework/includes/vc_extra_shortcodes/breadcrumb.php:10
+#: framework/includes/vc_extra_shortcodes/bubble.php:6
+#: framework/includes/vc_extra_shortcodes/dropcap.php:6
+#: framework/includes/vc_extra_shortcodes/featured-box.php:10
+#: framework/includes/vc_extra_shortcodes/google-chart.php:10
+#: framework/includes/vc_extra_shortcodes/grid.php:10
+#: framework/includes/vc_extra_shortcodes/icon.php:10
+#: framework/includes/vc_extra_shortcodes/newsletter.php:10
+#: framework/includes/vc_extra_shortcodes/page-title.php:10
+#: framework/includes/vc_extra_shortcodes/panel-box.php:10
+#: framework/includes/vc_extra_shortcodes/piegraph.php:10
+#: framework/includes/vc_extra_shortcodes/plan.php:10
+#: framework/includes/vc_extra_shortcodes/portfolio.php:6
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:6
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:7
+#: framework/includes/vc_extra_shortcodes/social.php:10
+#: framework/includes/vc_extra_shortcodes/stats.php:10
+#: framework/includes/vc_extra_shortcodes/title.php:10
+#: framework/includes/vc_extra_shortcodes/zoomimg.php:6
+msgid "Organic Food"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:30
+#: framework/includes/vc_extra_shortcodes/icon.php:49
+msgid "Text"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:33
+#: framework/includes/vc_extra_shortcodes/icon.php:52
+msgid "Text."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:42
+#: framework/includes/vc_extra_shortcodes/block.php:32
+#: framework/includes/vc_extra_shortcodes/google-chart.php:32
+#: framework/includes/vc_extra_shortcodes/panel-box.php:20
+#: framework/includes/vc_extra_shortcodes/piegraph.php:20
+msgid "Title."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:50
+msgid "content."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:55
+#: framework/includes/vc_extra_shortcodes/block-text.php:21
+#: framework/includes/vc_extra_shortcodes/block-text.php:24
+#: framework/includes/vc_extra_shortcodes/breadcrumb.php:25
+#: framework/includes/vc_extra_shortcodes/bubble.php:17
+#: framework/includes/vc_extra_shortcodes/icon.php:16
+#: framework/includes/vc_extra_shortcodes/page-title.php:41
+#: framework/includes/vc_extra_shortcodes/title.php:24
+#: framework/includes/vc_extra_shortcodes/title.php:27
+msgid "Color"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:58
+#: framework/includes/vc_extra_shortcodes/breadcrumb.php:28
+#: framework/includes/vc_extra_shortcodes/icon.php:19
+msgid "Color."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:66
+msgid "background."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:71
+#: framework/includes/vc_extra_shortcodes/block.php:70
+#: framework/includes/vc_extra_shortcodes/blog.php:305
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:71
+#: framework/includes/vc_extra_shortcodes/breadcrumb.php:33
+#: framework/includes/vc_extra_shortcodes/featured-box.php:148
+#: framework/includes/vc_extra_shortcodes/google-chart.php:61
+#: framework/includes/vc_extra_shortcodes/grid.php:182
+#: framework/includes/vc_extra_shortcodes/newsletter.php:16
+#: framework/includes/vc_extra_shortcodes/page-title.php:65
+#: framework/includes/vc_extra_shortcodes/panel-box.php:71
+#: framework/includes/vc_extra_shortcodes/piegraph.php:49
+#: framework/includes/vc_extra_shortcodes/plan.php:79
+#: framework/includes/vc_extra_shortcodes/social.php:174
+#: framework/includes/vc_extra_shortcodes/stats.php:41
+#: framework/includes/vc_extra_shortcodes/title.php:72
+#: framework/widgets/post_carousel.php:333
+msgid "Extra Class"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-number.php:74
+#: framework/includes/vc_extra_shortcodes/block.php:73
+#: framework/includes/vc_extra_shortcodes/featured-box.php:151
+#: framework/includes/vc_extra_shortcodes/google-chart.php:64
+#: framework/includes/vc_extra_shortcodes/grid.php:185
+#: framework/includes/vc_extra_shortcodes/newsletter.php:19
+#: framework/includes/vc_extra_shortcodes/page-title.php:68
+#: framework/includes/vc_extra_shortcodes/panel-box.php:74
+#: framework/includes/vc_extra_shortcodes/piegraph.php:52
+#: framework/includes/vc_extra_shortcodes/plan.php:82
+#: framework/includes/vc_extra_shortcodes/social.php:177
+#: framework/includes/vc_extra_shortcodes/stats.php:44
+#: framework/includes/vc_extra_shortcodes/title.php:75
+msgid "Extra Class."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-text.php:35
+#: framework/includes/vc_extra_shortcodes/block-text.php:38
+#: framework/includes/vc_extra_shortcodes/bubble.php:29
+msgid "Border Width"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-text.php:42
+#: framework/includes/vc_extra_shortcodes/block-text.php:45
+#: framework/includes/vc_extra_shortcodes/bubble.php:35
+msgid "Border Color"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block-text.php:49
+#: framework/includes/vc_extra_shortcodes/block-text.php:53
+#: framework/includes/vc_extra_shortcodes/bubble.php:41
+msgid "Border Style"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:7
+msgid "Block"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:37
+#: framework/includes/vc_extra_shortcodes/icon.php:32
+msgid "Link"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:40
+#: framework/includes/vc_extra_shortcodes/icon.php:35
+msgid "Link."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:45
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:27
+#: framework/includes/vc_extra_shortcodes/zoomimg.php:12
+msgid "Image"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:48
+msgid "Image."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:52
+msgid "Show Mosaic Hover"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:57
+msgid "Show or hide mosaic hover."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/block.php:65
+#: framework/includes/vc_extra_shortcodes/google-chart.php:40
+#: framework/includes/vc_extra_shortcodes/plan.php:46
+#: framework/includes/vc_extra_shortcodes/stats.php:36
+#: framework/includes/vc_extra_shortcodes/title.php:20
+msgid "Content."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:17
+#: framework/includes/vc_extra_shortcodes/grid.php:17
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:13
+#: framework/widgets/post_carousel.php:27
+msgid "Post Type"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:29
+msgid "Post Count"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:41
+#: framework/includes/vc_extra_shortcodes/blog.php:55
+#: framework/includes/vc_extra_shortcodes/blog.php:68
+#: framework/includes/vc_extra_shortcodes/portfolio.php:11
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:31
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:45
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:57
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:69
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:23
+#: framework/widgets/post_carousel.php:38
+#: framework/widgets/post_carousel.php:47
+#: framework/widgets/post_carousel.php:56
+#: framework/widgets/post_carousel.php:65
+#: framework/widgets/product_carousel.php:35
+msgid "Categories"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:44
+#: framework/includes/vc_extra_shortcodes/blog.php:57
+#: framework/includes/vc_extra_shortcodes/blog.php:70
+#: framework/includes/vc_extra_shortcodes/portfolio.php:13
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:34
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:47
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:59
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:71
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:25
+msgid ""
+"Note: By default, all your projects will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:75
+#: framework/includes/vc_extra_shortcodes/grid.php:37
+msgid "Columns Extra Screen"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:89
+#: framework/includes/vc_extra_shortcodes/grid.php:51
+msgid "Columns Small Screen"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:103
+#: framework/includes/vc_extra_shortcodes/grid.php:65
+msgid "Columns Medium Screen"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:117
+#: framework/includes/vc_extra_shortcodes/grid.php:79
+msgid "Columns Large Screen"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:177
+#: framework/includes/vc_extra_shortcodes/grid.php:103
+#: framework/includes/vc_extra_shortcodes/portfolio.php:43
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:141
+msgid "Crop image"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:182
+#: framework/includes/vc_extra_shortcodes/grid.php:108
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:146
+msgid "Crop or not crop image on your Post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:186
+#: framework/includes/vc_extra_shortcodes/grid.php:112
+#: framework/includes/vc_extra_shortcodes/portfolio.php:52
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:150
+msgid "Width image"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:188
+#: framework/includes/vc_extra_shortcodes/grid.php:114
+#: framework/includes/vc_extra_shortcodes/portfolio.php:54
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:152
+msgid "Enter the width of image. Default: 300."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:192
+#: framework/includes/vc_extra_shortcodes/grid.php:118
+#: framework/includes/vc_extra_shortcodes/portfolio.php:58
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:156
+msgid "Height image"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:194
+#: framework/includes/vc_extra_shortcodes/grid.php:120
+#: framework/includes/vc_extra_shortcodes/portfolio.php:60
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:158
+msgid "Enter the height of image. Default: 200."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:198
+#: framework/includes/vc_extra_shortcodes/grid.php:124
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:258
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:108
+#: framework/widgets/post_carousel.php:228
+#: framework/widgets/product_carousel.php:105
+msgid "Show Title"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:203
+msgid "Show or hide title of post on your blog."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:207
+#: framework/widgets/post_carousel.php:246
+msgid "Show Info"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:212
+msgid "Show or hide info of post on your blog."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:216
+#: framework/includes/vc_extra_shortcodes/grid.php:133
+#: framework/widgets/post_carousel.php:255
+msgid "Show Description"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:225
+msgid "Show or hide description of post on your blog."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:236
+#: framework/includes/vc_extra_shortcodes/grid.php:145
+msgid "The length of the excerpt, number of words to display."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:250
+msgid "Show Extra Excerpt"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:259
+msgid "Show or hide extra recipt of post on your blog."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:264
+msgid "Read More Text"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:270
+#: framework/includes/vc_extra_shortcodes/grid.php:156
+#: framework/includes/vc_extra_shortcodes/portfolio.php:153
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:350
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:153
+#: framework/widgets/post_carousel.php:312
+#: framework/widgets/product_carousel.php:130
+msgid "Order by"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:279
+#: framework/includes/vc_extra_shortcodes/grid.php:165
+#: framework/includes/vc_extra_shortcodes/portfolio.php:162
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:359
+msgid "Order by (\"none\", \"title\", \"date\", \"ID\")."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:283
+#: framework/includes/vc_extra_shortcodes/grid.php:169
+#: framework/includes/vc_extra_shortcodes/portfolio.php:166
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:363
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:167
+msgid "Order"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:291
+#: framework/includes/vc_extra_shortcodes/grid.php:177
+#: framework/includes/vc_extra_shortcodes/portfolio.php:174
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:371
+msgid "Order (\"None\", \"Asc\", \"Desc\")."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:295
+msgid "Show Pagination"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/blog.php:300
+msgid "Show or hide pagination of post on your blog."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/box-feature-figure.php:7
+msgid "Box Feature Figure"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/breadcrumb.php:7
+msgid "Breadcrumb"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/breadcrumb.php:20
+msgid "Enter delimiter page breadcrumb."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/bubble.php:11
+msgid "Author"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:7
+msgid "Featured Box"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:16
+#: framework/includes/vc_extra_shortcodes/featured-box.php:24
+msgid "Box Type"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:29
+#: framework/includes/vc_extra_shortcodes/featured-box.php:37
+msgid "Box Position"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:42
+#: framework/includes/vc_extra_shortcodes/featured-box.php:55
+msgid "Box Inner Type"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:60
+msgid "Box Style"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:73
+msgid "Box Style."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:78
+msgid "Box Text"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:85
+msgid "Box Text."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:90
+msgid "Box Icon"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:97
+msgid "Box Icon."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:103
+msgid "Box Image"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:110
+msgid "Box Image."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:116
+msgid "Box Title"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:119
+msgid "Box Title."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:124
+msgid "Box Content"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/featured-box.php:127
+msgid "Box Content."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/google-chart.php:7
+msgid "Google Chart"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/google-chart.php:37
+msgid "Data"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/grid.php:7
+msgid "Grid"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/grid.php:27
+msgid "Show Filter"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/grid.php:32
+msgid "Show or hide filter on your grid."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/grid.php:129
+msgid "Show or hide title of post on your grid."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/grid.php:138
+msgid "Show or hide description of post on your grid."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/icon.php:24
+msgid "Font size"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/icon.php:27
+msgid "Font size."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/icon.php:40
+msgid "Class"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/icon.php:43
+msgid "Class."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/newsletter.php:7
+msgid "Newsletter"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/page-title.php:7
+msgid "Page Title"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/page-title.php:23
+msgid "Select type of page title."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/page-title.php:29
+msgid "Custom Title"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/page-title.php:36
+msgid "Please, Enter custom text of page title."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/page-title.php:44
+msgid "Select color of page title."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/page-title.php:52
+msgid "Please, Enter padding of page title. Default: 0"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/page-title.php:60
+msgid "Please, Enter margin of page title. Default: 0"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/panel-box.php:7
+msgid "Panel Box"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/panel-box.php:28
+msgid "Icon."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/panel-box.php:33
+msgid "Tooltip Title"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/panel-box.php:36
+msgid "Tooltip Title."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/panel-box.php:41
+#: framework/includes/vc_extra_shortcodes/social.php:146
+msgid "Tooltip Position"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/panel-box.php:50
+msgid "Tooltip Position."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/piegraph.php:7
+msgid "Pie Graph"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/piegraph.php:25
+msgid "Percent"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/piegraph.php:28
+msgid "Percent."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/piegraph.php:33
+msgid "Radius"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/piegraph.php:36
+msgid "Radius."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/piegraph.php:41
+msgid "Stroke color"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/piegraph.php:44
+msgid "Choose stroke color"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:7
+msgid "Plan"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:17
+msgid "Name"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:20
+msgid "Name."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:25
+msgid "Featured"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:30
+msgid "Featured."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:35
+#: framework/widgets/product_carousel.php:133
+msgid "Price"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:38
+msgid "Price."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:51
+msgid "Url"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:54
+msgid "Url."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:59
+msgid "Target"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:66
+msgid "Target."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/plan.php:71
+#: framework/includes/vc_extra_shortcodes/plan.php:74
+msgid "Button Text"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:18
+msgid "Appearance"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:29
+msgid "Columns"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:48
+msgid "Crop or not crop image on your Portfolio."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:75
+msgid "Filter"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:80
+msgid "Would you like your portfolio items to be filter?"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:84
+msgid "Show title"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:89
+msgid "Show or hide title on your Portfolio."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:93
+msgid "Show category"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:98
+msgid "Show or hide category on your Portfolio."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:102
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:297
+msgid "Show description"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:107
+msgid "Show or hide description on your Portfolio."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:111
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:343
+msgid "Number of posts to show per page"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:114
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:346
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:45
+msgid ""
+"The number of posts to display on each page. Set to \"-1\" for display all "
+"posts on the page."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:118
+msgid "Max of posts to show per page"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:121
+msgid ""
+"The number of posts load more on each page. Set to \"-1\" for display all "
+"posts on the page or empty not load more."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:128
+msgid ""
+"The length of the excerpt, number of words to display. Set to \"-1\" for no "
+"excerpt."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:132
+msgid "Show Enlarge"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:135
+#: framework/includes/vc_extra_shortcodes/portfolio.php:142
+#: framework/includes/vc_extra_shortcodes/portfolio.php:149
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:339
+msgid ""
+"Enter desired text for the link or for no link, leave blank or set to \\"
+"\"-1\\\"."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:139
+msgid "Show Read More"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/portfolio.php:146
+msgid "Show View Online"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:76
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:92
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:110
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:126
+#: framework/widgets/post_carousel.php:74
+#: framework/widgets/post_carousel.php:86
+#: framework/widgets/post_carousel.php:100
+#: framework/widgets/post_carousel.php:112
+#: framework/widgets/product_carousel.php:27
+msgid "Styles"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:162
+msgid "Width item"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:164
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:65
+msgid "Enter the width of item. Default: 150."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:168
+msgid "Margin item"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:170
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:71
+msgid "Enter the margin of item. Default: 20."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:175
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:50
+#: framework/widgets/post_carousel.php:127
+#: framework/widgets/product_carousel.php:61
+msgid "Rows"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:188
+msgid "Auto scroll"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:193
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:86
+msgid "Auto scroll."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:197
+msgid "Speed scroll"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:200
+msgid "Speed scroll."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:209
+msgid "Same height."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:213
+msgid "Show navigation"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:218
+msgid "Show or hide navigation on your carousel post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:223
+msgid "Navigation Position"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:236
+#: framework/widgets/post_carousel.php:209
+msgid "Show Pager"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:241
+msgid "Show or hide pager on your carousel post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:245
+msgid "Show image"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:254
+msgid "Show or hide image on your carousel post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:267
+msgid "Show or hide title on your post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:271
+#: framework/includes/vc_extra_shortcodes/social.php:136
+#: framework/widgets/post_carousel.php:237
+msgid "Show Tooltip"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:280
+msgid "Show or hide tooltip on your post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:284
+msgid "Show Information"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:293
+msgid "Show or hide Information of your post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:306
+msgid "Show or hide description of your post."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:317
+msgid ""
+"The length of the excerpt, number of words to display. Set to \"-1\" for no "
+"excerpt. Default: 20."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:328
+msgid ""
+"The more of the excerpt, character of words to display. Default: \"...\""
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/postcarousel.php:332
+#: framework/widgets/post_carousel.php:285
+msgid "Read More"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:30
+#: framework/widgets/product_carousel.php:40
+msgid "Show"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:42
+#: framework/widgets/product_carousel.php:53
+msgid "Number of products to show"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:63
+#: framework/widgets/post_carousel.php:164
+#: framework/widgets/product_carousel.php:69
+msgid "Width Item"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:69
+#: framework/widgets/post_carousel.php:172
+#: framework/widgets/product_carousel.php:77
+msgid "Margin Item"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:75
+#: framework/widgets/post_carousel.php:185
+#: framework/widgets/product_carousel.php:85
+msgid "Speed Scroll"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:77
+msgid "Enter the speed of carousel. Default: 500."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:81
+#: framework/widgets/post_carousel.php:177
+#: framework/widgets/product_carousel.php:90
+msgid "Auto Scroll"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:90
+#: framework/widgets/post_carousel.php:214
+#: framework/widgets/product_carousel.php:95
+msgid "Same Height"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:95
+msgid "Same height item."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:99
+#: framework/widgets/post_carousel.php:190
+#: framework/widgets/product_carousel.php:100
+msgid "Show Navigation"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:104
+msgid "Show or hidden navigation."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:113
+msgid "Show or hidden title on your Product."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:117
+#: framework/widgets/product_carousel.php:110
+msgid "Show Price"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:122
+msgid "Show or hidden price on your Product."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:126
+#: framework/widgets/product_carousel.php:115
+msgid "Show Rating"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:131
+msgid "Show or hidden rating on your Product."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:135
+msgid "Show Category"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:140
+msgid "Show or hidden category on your Product."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:144
+#: framework/widgets/product_carousel.php:125
+msgid "Show Add To Cart"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:149
+msgid "Show or hidden add to cart on your Product."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:163
+msgid "Order by (\"none\", \"date\", \"price\", \"rand\", \"sales\")."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:175
+msgid "Order (\"none\", \"asc\", \"desc\")."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:179
+#: framework/widgets/product_carousel.php:150
+msgid "Hide free products"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:184
+msgid "Show or hidden free products."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:188
+#: framework/widgets/product_carousel.php:155
+msgid "Show hidden products"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/shopcarousel.php:193
+msgid "Show or hidden products."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:7
+#: framework/widgets/social.php:6
+msgid "Social"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:16
+msgid "Title Social 1"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:24
+msgid "Icon Social 1"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:32
+msgid "Link Social 1"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:40
+msgid "Title Social 2"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:48
+msgid "Icon Social 2"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:56
+msgid "Link Social 2"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:64
+msgid "Title Social 3"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:72
+msgid "Icon Social 3"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:80
+msgid "Link Social 3"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:88
+msgid "Title Social 4"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:96
+msgid "Icon Social 4"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:104
+msgid "Link Social 4"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:112
+msgid "Title Social 5"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:120
+msgid "Icon Social 5"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/social.php:128
+msgid "Link Social 5"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/stats.php:7
+msgid "Stats"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/stats.php:16
+msgid "Timer"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/stats.php:19
+msgid "Timer."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/stats.php:25
+msgid "Number"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/stats.php:28
+msgid "Number."
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/title.php:32
+#: framework/includes/vc_extra_shortcodes/title.php:41
+msgid "Align"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/title.php:46
+msgid "Underline"
+msgstr ""
+
+#: framework/includes/vc_extra_shortcodes/title.php:51
+msgid "Underline."
+msgstr ""
+
+#: framework/metaboxes.php:32
+msgid "Video Settings"
+msgstr ""
+
+#: framework/metaboxes.php:33
+msgid "Audio Settings"
+msgstr ""
+
+#: framework/metaboxes.php:34
+msgid "Quote Settings"
+msgstr ""
+
+#: framework/metaboxes.php:35
+msgid "Link Settings"
+msgstr ""
+
+#: framework/shortcodes/blog/blog.php:131 inc/template-tags.php:43
+msgid "&larr; Previous"
+msgstr ""
+
+#: framework/shortcodes/blog/blog.php:132 inc/template-tags.php:44
+msgid "Next &rarr;"
+msgstr ""
+
+#: framework/shortcodes/blog/post/tpl-style1.php:8
+#: framework/shortcodes/blog/post/tpl-style1gallery.php:8
+#: framework/shortcodes/blog/recipe/tpl-style1.php:8
+#: framework/templates/multiple-blog.php:38
+msgid "Published on"
+msgstr ""
+
+#: framework/shortcodes/blog/post/tpl-style1.php:10
+#: framework/shortcodes/blog/post/tpl-style1gallery.php:10
+#: framework/templates/multiple-blog.php:40
+#: framework/templates/portfolio/single-layout1.php:16
+msgid "Category: "
+msgstr ""
+
+#: framework/shortcodes/grid/grid.php:70
+msgid "Show All"
+msgstr ""
+
+#: framework/shortcodes/postcarousel/styles/testimonial/style-1-consilium.php:63
+#: framework/shortcodes/postcarousel/styles/testimonial/testimonial-avatar-center.php:64
+#: framework/shortcodes/postcarousel/styles/testimonial/testimonial-avatar.php:65
+msgid "No Comments"
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/templates/blog/content-page.php:14
+#: framework/templates/multiple-blog.php:116
+msgid "Pages:"
+msgstr ""
+
+#: framework/templates/blog/content-page.php:20
+msgid "Edit"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:125
+msgid "Read More: "
+msgstr ""
+
+#: framework/templates/portfolio/portfolio-filters.php:3
+msgid "All"
+msgstr ""
+
+#: framework/views/metaboxes/blog_options.php:16
+msgid "GENERAL"
+msgstr ""
+
+#: framework/views/metaboxes/blog_options.php:17
+msgid "HEADER"
+msgstr ""
+
+#: framework/views/metaboxes/blog_options.php:60
+msgid "Background Setting:"
+msgstr ""
+
+#: framework/views/metaboxes/blog_options.php:71
+msgid "Manage Locations"
+msgstr ""
+
+#: framework/views/metaboxes/post_audio.php:18
+msgid "Please enter in the URL to the (OGG,MP3,WAV) file"
+msgstr ""
+
+#: framework/views/metaboxes/post_link.php:6
+msgid "Please input the URL for your link. http://www.youwebsite.com"
+msgstr ""
+
+#: framework/views/metaboxes/post_quote.php:17
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: framework/views/metaboxes/post_quote.php:22
+msgid "Please type the text for author quote here."
+msgstr ""
+
+#: framework/views/metaboxes/post_video.php:42
+msgid ""
+"Please upload the (MP4,WebM,Ogg) video file. You must include both formats."
+msgstr ""
+
+#: framework/views/metaboxes/post_video.php:46
+msgid ""
+"Image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection. Only applies to self hosted videos."
+msgstr ""
+
+#: framework/views/metaboxes/post_video.php:51
+msgid "Enter in a Youtube (http://youtu.be/ID)"
+msgstr ""
+
+#: framework/views/metaboxes/post_video.php:56
+msgid "Enter in a Vimeo (http://vimeo.com/ID)"
+msgstr ""
+
+#: framework/views/metaboxes/post_video.php:64
+msgid "Video Formats and Browser Support"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:5
+msgctxt "Post type general name"
+msgid "Clients"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:6
+msgctxt "Post type singular name"
+msgid "Pro Clients"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:7
+msgctxt "Client Item"
+msgid "Add new client"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:8
+msgid "Add new client"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:9
+msgid "Edit client"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:10
+msgid "New client"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:11
+msgid "All clients"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:12
+msgid "View"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:13
+msgid "Search"
+msgstr ""
+
+#: framework/views/posttype/my_client.php:14
+#: framework/views/posttype/my_client.php:15
+msgid "No clients found."
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:6
+#: framework/views/posttype/portfolio.php:7
+#: framework/views/posttype/portfolio.php:16
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:8
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:9
+msgid "All Portfolio Category"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:10
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:11
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:12
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:13
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:14
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:15
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:32
+#: framework/views/posttype/portfolio.php:33
+#: framework/views/posttype/portfolio.php:42
+msgid "Portfolio Tag"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:34
+msgid "Search Portfolio Tag"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:35
+msgid "All Portfolio Tag"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:36
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:37
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:38
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:39
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:40
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:41
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:60
+#: framework/views/posttype/portfolio.php:62
+msgid "Portfolio"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:61
+msgid "Portfolio Item"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:63
+#: framework/views/posttype/recipe.php:65
+msgid "Parent Item:"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:64
+#: framework/views/posttype/produce.php:38
+#: framework/views/posttype/recipe.php:66
+msgid "All Items"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:65
+#: framework/views/posttype/produce.php:39
+#: framework/views/posttype/recipe.php:67
+msgid "View Item"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:66
+#: framework/views/posttype/produce.php:35
+#: framework/views/posttype/recipe.php:68
+msgid "Add New Item"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:67
+#: framework/views/posttype/recipe.php:69
+msgid "Add New"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:68
+#: framework/views/posttype/produce.php:36
+#: framework/views/posttype/recipe.php:70
+msgid "Edit Item"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:69
+#: framework/views/posttype/recipe.php:71
+msgid "Update Item"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:70
+#: framework/views/posttype/recipe.php:72
+msgid "Search Item"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:71
+#: framework/views/posttype/recipe.php:73
+msgid "Not found"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:72
+#: framework/views/posttype/recipe.php:74
+msgid "Not found in Trash"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:75
+msgid "portfolio"
+msgstr ""
+
+#: framework/views/posttype/portfolio.php:76
+msgid "Portfolio Description"
+msgstr ""
+
+#: framework/views/posttype/produce.php:6
+#: framework/views/posttype/produce.php:7
+#: framework/views/posttype/produce.php:16
+msgid "Produce Category"
+msgstr ""
+
+#: framework/views/posttype/produce.php:8
+msgid "Search Produce Category"
+msgstr ""
+
+#: framework/views/posttype/produce.php:9
+msgid "All Produce Category"
+msgstr ""
+
+#: framework/views/posttype/produce.php:10
+msgid "Parent Produce Category"
+msgstr ""
+
+#: framework/views/posttype/produce.php:11
+msgid "Parent Produce Category:"
+msgstr ""
+
+#: framework/views/posttype/produce.php:12
+msgid "Edit Produce Category"
+msgstr ""
+
+#: framework/views/posttype/produce.php:13
+msgid "Update Produce Category"
+msgstr ""
+
+#: framework/views/posttype/produce.php:14
+msgid "Add New Produce Category"
+msgstr ""
+
+#: framework/views/posttype/produce.php:15
+msgid "New Produce Category Name"
+msgstr ""
+
+#: framework/views/posttype/produce.php:32
+msgctxt "Post type general name"
+msgid "Produce"
+msgstr ""
+
+#: framework/views/posttype/produce.php:33
+msgctxt "Post type singular name"
+msgid "Produce"
+msgstr ""
+
+#: framework/views/posttype/produce.php:34
+msgctxt "Produce Item"
+msgid "Add New"
+msgstr ""
+
+#: framework/views/posttype/produce.php:37
+msgid "New Item"
+msgstr ""
+
+#: framework/views/posttype/produce.php:40
+msgid "Search Items"
+msgstr ""
+
+#: framework/views/posttype/produce.php:41
+#: framework/views/posttype/produce.php:42
+msgid "No produces found."
+msgstr ""
+
+#: framework/views/posttype/produce.php:44
+#: framework/widgets/post_carousel.php:32
+msgid "Produce"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:6 framework/views/posttype/recipe.php:7
+#: framework/views/posttype/recipe.php:16
+msgid "Recipe Category"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:8
+msgid "Search Recipe Category"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:9
+msgid "All Recipe Category"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:10
+msgid "Parent Recipe Category"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:11
+msgid "Parent Recipe Category:"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:12
+msgid "Edit Recipe Category"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:13
+msgid "Update Recipe Category"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:14
+msgid "Add New Recipe Category"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:15
+msgid "New Recipe Category Name"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:34
+#: framework/views/posttype/recipe.php:35
+#: framework/views/posttype/recipe.php:44
+msgid "Recipe Tag"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:36
+msgid "Search Recipe Tag"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:37
+msgid "All Recipe Tag"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:38
+msgid "Parent Recipe Tag"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:39
+msgid "Parent Recipe Tag:"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:40
+msgid "Edit Recipe Tag"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:41
+msgid "Update Recipe Tag"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:42
+msgid "Add New Recipe Tag"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:43
+msgid "New Recipe Tag Name"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:62
+msgctxt "Post Type General Name"
+msgid "Recipe"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:63
+msgctxt "Post Type Singular Name"
+msgid "Recipe Item"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:64
+#: framework/views/posttype/recipe.php:77
+msgid "Recipe"
+msgstr ""
+
+#: framework/views/posttype/recipe.php:78
+msgid "Recipe Description"
+msgstr ""
+
+#: framework/views/posttype/team.php:7 framework/views/posttype/team.php:10
+msgid "Team"
+msgstr ""
+
+#: framework/views/posttype/team.php:8
+msgid "Team Item"
+msgstr ""
+
+#: framework/views/posttype/team.php:9
+msgid "Search Team Items"
+msgstr ""
+
+#: framework/views/posttype/team.php:11
+msgid "Parent Team Item"
+msgstr ""
+
+#: framework/views/posttype/team.php:12
+msgid "Edit Team Item"
+msgstr ""
+
+#: framework/views/posttype/team.php:13
+msgid "Update Team Item"
+msgstr ""
+
+#: framework/views/posttype/team.php:14
+msgid "Add New Team Item"
+msgstr ""
+
+#: framework/views/posttype/team.php:15
+msgid "No team found"
+msgstr ""
+
+#: framework/views/posttype/team.php:24
+#: framework/views/posttype/testimonial.php:29
+msgid "Project"
+msgstr ""
+
+#: framework/views/posttype/team.php:39
+msgid "Team Categories"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:9
+msgid "Testimonials"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:10
+msgid "Testimonial Item"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:11
+msgid "Search Testimonial Items"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:12
+#: framework/widgets/post_carousel.php:30
+msgid "Testimonial"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:13
+msgid "Parent Testimonial Item"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:14
+msgid "Edit Testimonial Item"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:15
+msgid "Update Testimonial Item"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:16
+msgid "Add New Testimonial Item"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:17
+msgid "No testimonial found"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:44
+msgid "Testimonial Categories"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:47
+#: framework/views/posttype/testimonial.php:61
+msgid "Testimonial Tags"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:48
+msgid "Tag"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:49
+msgid "Search Tags"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:50
+msgid "Popular Tags"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:51
+msgid "All Tags"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:54
+msgid "Edit Tag"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:55
+msgid "Update Tag"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:56
+msgid "Add New Tag"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:57
+msgid "New Tag Name"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:58
+msgid "Separate tags with commas"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:59
+msgid "Add or remove tags"
+msgstr ""
+
+#: framework/views/posttype/testimonial.php:60
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: framework/widgets/exp-cart.php:22
+msgid "Woocommerce Mini Cart"
+msgstr ""
+
+#: framework/widgets/exp-cart.php:23
+msgid "Display the user's Woocommerce Mini Cart form in the sidebar."
+msgstr ""
+
+#: framework/widgets/exp-cart.php:96 framework/widgets/exp-cart.php:220
+msgid "No products in the cart."
+msgstr ""
+
+#: framework/widgets/exp-cart.php:99 framework/widgets/exp-cart.php:223
+msgid "Total"
+msgstr ""
+
+#: framework/widgets/exp-cart.php:103 framework/widgets/exp-cart.php:227
+msgid "View Cart"
+msgstr ""
+
+#: framework/widgets/exp-cart.php:104 framework/widgets/exp-cart.php:228
+msgid "Checkout"
+msgstr ""
+
+#: framework/widgets/exp-cart.php:144
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/exp-cart.php:149
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: framework/widgets/new_tabs.php:6
+msgid "New Tabs"
+msgstr ""
+
+#: framework/widgets/new_tabs.php:7
+msgid "New Tabs Widget"
+msgstr ""
+
+#: framework/widgets/new_tabs.php:39
+msgid "Popular"
+msgstr ""
+
+#: framework/widgets/new_tabs.php:42
+msgid "Recent"
+msgstr ""
+
+#: framework/widgets/new_tabs.php:45
+msgid "Comments"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:15
+msgid "Display a list of your posts on your site."
+msgstr ""
+
+#: framework/widgets/post_carousel.php:17
+#: framework/widgets/post_carousel.php:21
+msgid "Posts Carousel"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:29
+msgid "Post"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:31
+msgid "Client"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:76
+msgid "Style 1 Organicfood"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:88
+msgid "Default 1 Consilium"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:89
+msgid "With Avatar"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:90
+msgid "With Avatar Center"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:102
+#: framework/widgets/post_carousel.php:114
+msgid "Style 1"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:132
+msgid "Crop Image"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:140
+msgid "Width Image"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:152
+msgid "Height Image"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:195
+msgid "Navigation Postion"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:197 framework/widgets/social.php:109
+msgid "Left"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:198
+msgid "Center"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:199 framework/widgets/social.php:110
+msgid "Right"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:219
+msgid "Show Image"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:297
+msgid "Number of posts to show"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:302
+msgid "Meta Key"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:307
+msgid "Meta Value"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:314
+#: framework/widgets/post_carousel.php:325
+msgid "None"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:316
+#: framework/widgets/product_carousel.php:132
+msgid "Date"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:317
+msgid "ID"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:323
+#: framework/widgets/product_carousel.php:141
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:326
+#: framework/widgets/product_carousel.php:143
+msgid "ASC"
+msgstr ""
+
+#: framework/widgets/post_carousel.php:327
+#: framework/widgets/product_carousel.php:144
+msgid "DESC"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:15
+msgid "Display a list of your products on your site."
+msgstr ""
+
+#: framework/widgets/product_carousel.php:17
+msgid "WooCommerce Products Carousel"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:21
+msgid "Products Carousel"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:29
+msgid "Default"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:42
+msgid "All Products"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:43
+msgid "Featured Products"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:44
+msgid "On-sale Products"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:120
+msgid "Show Cateogry"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:134
+msgid "Random"
+msgstr ""
+
+#: framework/widgets/product_carousel.php:135
+msgid "Sales"
+msgstr ""
+
+#: framework/widgets/social.php:7
+msgid "Social Widget"
+msgstr ""
+
+#: framework/widgets/social.php:81
+msgid "Social Title:"
+msgstr ""
+
+#: framework/widgets/social.php:86
+msgid "Social Icon:"
+msgstr ""
+
+#: framework/widgets/social.php:91
+msgid "Social Link:"
+msgstr ""
+
+#: framework/widgets/social.php:97
+msgid "Show tooltip:"
+msgstr ""
+
+#: framework/widgets/social.php:101
+msgid "Tooltip Position:"
+msgstr ""
+
+#: framework/widgets/social.php:103
+msgid "Top"
+msgstr ""
+
+#: framework/widgets/social.php:104
+msgid "Top Left"
+msgstr ""
+
+#: framework/widgets/social.php:105
+msgid "Top Right"
+msgstr ""
+
+#: framework/widgets/social.php:106
+msgid "Bottom"
+msgstr ""
+
+#: framework/widgets/social.php:107
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/widgets/social.php:108
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/widgets/social.php:114
+msgid "Extra Class:"
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:15
+msgid "Display info account on your site."
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:17
+msgid "WooCommerce My Account"
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:21
+msgid "My Account"
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:63
+msgid "Login"
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:68
+msgid "Welcome, "
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:68
+#: framework/widgets/woo-my-account.php:69
+msgid " / "
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:69
+msgid "Account"
+msgstr ""
+
+#: framework/widgets/woo-my-account.php:70
+msgid "Logout"
+msgstr ""
+
+#: functions.php:87
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:269
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:277
+msgid "Menu Food"
+msgstr ""
+
+#: functions.php:285
+msgid "Single Blog Sidebar Left"
+msgstr ""
+
+#: functions.php:293
+msgid "Single Blog Sidebar Right"
+msgstr ""
+
+#: functions.php:301
+#, php-format
+msgid "Header Top Widget %d"
+msgstr ""
+
+#: functions.php:309
+#, php-format
+msgid "Header 2 Top Widget %d"
+msgstr ""
+
+#: functions.php:317
+#, php-format
+msgid "Header 3 Top Widget %d"
+msgstr ""
+
+#: functions.php:325
+#, php-format
+msgid "Footer Widget %d"
+msgstr ""
+
+#: functions.php:333
+#, php-format
+msgid "Footer Bottom Widget %d"
+msgstr ""
+
+#: functions.php:342
+#, php-format
+msgid "Header Shop Top Widget %d"
+msgstr ""
+
+#: functions.php:350
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:358
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid ""
+"<span class=\"btn btn-default\"><i class=\"fa fa-chevron-circle-left\"></"
+"i>PREVIOUS POST</span>"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid ""
+"<span class=\"btn btn-default\">NEXT POST<i class=\"fa fa-chevron-circle-"
+"right\"></i></span>"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "Search Keyword: "
+msgstr ""
+
+#: inc/template-tags.php:100
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:102
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:104
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:106
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:112
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Audios"
+msgstr ""
+
+#: inc/template-tags.php:124
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:152
+msgid "Archive by category: "
+msgstr ""
+
+#: inc/template-tags.php:155
+msgid "Search results for: "
+msgstr ""
+
+#: inc/template-tags.php:267
+msgid "Posts tagged: "
+msgstr ""
+
+#: inc/template-tags.php:272
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/template-tags.php:275
+msgid "Error 404"
+msgstr ""
+
+#: inc/template-tags.php:280
+msgid "Page"
+msgstr ""
+
+#: single.php:73
+msgid "TAGS:"
+msgstr ""
+
+#: vc_templates/vc_cta_button.php:8
+msgid "Text on the button"
+msgstr ""
+
+#: vc_templates/vc_tab.php:11
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:45 vc_templates/vc_tabs.php:74
+#: vc_templates/vc_tabs.php:103
+msgid "Previous slide"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:45 vc_templates/vc_tabs.php:74
+#: vc_templates/vc_tabs.php:103
+msgid "Next slide"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/wc-template-function.php:61
+msgid "Uganda Shillings"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "OrganicFood"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://cmssuperheroes.com/wordpress/organicfood"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"In 2014, Creating a magazine website with WordPress has never been easier."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Cmssuperheroes Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cmssuperheroes.com/"
+msgstr ""

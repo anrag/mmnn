@@ -1,0 +1,70 @@
+.yp-code-group{
+	width:600px;
+}
+
+.yp-code-group li{
+	padding:12px 15px;
+	border:1px solid #CCC;
+	background:#f9f9f9;
+	margin-bottom:8px;
+}
+
+.yp-code-group li:hover{
+	background:#eee;
+}
+
+.yp-code-group .yp-title{
+	padding:0px;
+	margin:0;
+	font-size:15px;
+	display:block;
+	width:340px;
+	font-weight:600;
+	float:left;
+}
+
+.yp-code-group .yp-customize{
+	display:block;
+	float:right;
+	font-weight:600;
+	font-size:14px;
+}
+
+.yp-code-group .yp-remove{
+	display:block;
+	float:right;
+	font-weight:600;
+	font-size:14px;
+	margin-left:14px;
+}
+
+.yp-code-group .yp-remove span,.yp-code-group .yp-customize span{
+	font-size:18px;
+	position:relative;
+	left:3px;
+}
+
+.yp-code-group a{
+	text-decoration:none;
+}
+
+.yp-clearfix{
+	clear:both;
+	display:block;
+}
+
+.yp-admin-textarea{
+	width:600px;
+	padding: 12px 15px;
+	border: 1px solid #CCC;
+	background: #f9f9f9;
+	margin-bottom: 8px;
+}
+
+.yp-output-css-footer{
+	margin-top:10px;
+}
+
+.yp-form-table th{
+	padding:11px 10px 17px 0 !important;
+}
